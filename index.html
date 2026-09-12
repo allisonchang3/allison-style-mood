@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Allison — chic, classic, simple style mood and daily look log for Seoul." />
+  <title>Allison · Chic · Classic · Simple</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="wordmark">Allison <span>— style mood</span></p>
+      <p class="nav-hint">Seoul · daily looks</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <h1 id="hero-title" class="hero-title">
+        Chic<span class="dot">·</span>Classic<span class="dot">·</span>Simple
+      </h1>
+      <p class="hero-lede">
+        A quiet wardrobe language: dark blazers and soft knits, light denim and long skirts,
+        gold that barely whispers. Feminine, practical, never loud — the kind of polish
+        that feels like ease.
+      </p>
+      <ul class="chips" aria-label="Mood keywords">
+        <li class="chip">Quiet luxury</li>
+        <li class="chip">Understated</li>
+        <li class="chip">Preppy calm</li>
+        <li class="chip">Soft structure</li>
+        <li class="chip">Cream &amp; camel</li>
+        <li class="chip">Olive cap energy</li>
+      </ul>
+      <div class="ornament" aria-hidden="true">✦</div>
+    </section>
+
+    <section class="section wrap" aria-labelledby="palette-heading">
+      <p class="section-label" id="palette-heading">Palette &amp; pillars</p>
+
+      <div class="palette-grid" role="list" aria-label="Color palette">
+        <div class="swatch swatch--cream" role="listitem"><span class="swatch-name">Cream</span></div>
+        <div class="swatch swatch--ink" role="listitem"><span class="swatch-name">Ink</span></div>
+        <div class="swatch swatch--navy" role="listitem"><span class="swatch-name">Navy</span></div>
+        <div class="swatch swatch--taupe" role="listitem"><span class="swatch-name">Taupe</span></div>
+        <div class="swatch swatch--camel" role="listitem"><span class="swatch-name">Camel</span></div>
+        <div class="swatch swatch--olive" role="listitem"><span class="swatch-name">Olive</span></div>
+        <div class="swatch swatch--blush" role="listitem"><span class="swatch-name">Blush</span></div>
+        <div class="swatch swatch--sage" role="listitem"><span class="swatch-name">Sage</span></div>
+      </div>
+
+      <ul class="pillars">
+        <li class="pillar">
+          <p class="pillar-num">01</p>
+          <h3>Soft structure</h3>
+          <p>Blazers, turtlenecks, and clean lines that hold shape without stiffness — polished, never rigid.</p>
+        </li>
+        <li class="pillar">
+          <p class="pillar-num">02</p>
+          <h3>Light denim &amp; knits</h3>
+          <p>Straight washes, cream knits, thin cardigans. Everyday pieces that still feel considered.</p>
+        </li>
+        <li class="pillar">
+          <p class="pillar-num">03</p>
+          <h3>Quiet gold</h3>
+          <p>Small hoops, a thin chain, one simple ring. Jewelry as punctuation, not the sentence.</p>
+        </li>
+        <li class="pillar">
+          <p class="pillar-num">04</p>
+          <h3>Grounded feet</h3>
+          <p>White sneakers, nude or blush flats, black socks when it suits. Practical elegance.</p>
+        </li>
+        <li class="pillar">
+          <p class="pillar-num">05</p>
+          <h3>Hair that breathes</h3>
+          <p>Loose waves, soft part, tucked behind one ear — undone on purpose.</p>
+        </li>
+        <li class="pillar">
+          <p class="pillar-num">06</p>
+          <h3>Seoul seasons</h3>
+          <p>Dress for the day: sunny early autumn, light layers, a cardigan after dark.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section wrap" id="log" aria-labelledby="log-heading">
+      <p class="section-label" id="log-heading">Daily look log</p>
+      <p class="log-intro">
+        Reverse-chronological notes — what she wore, Seoul weather, and a short line of intention.
+        Each entry includes a generated model look plus celebrity references (Suzy &amp; Hyojin Kong first). Edit <code>looks-data.js</code> and keep images under <code>images/</code>.
+      </p>
+      <ul class="looks" id="looks-root" aria-live="polite">
+        <!-- rendered by app.js -->
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p><span class="serif-bit">Allison</span> · chic, classic, simple · Seoul</p>
+    </div>
+  </footer>
+
+  <script src="looks-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+/* Source of truth for the Daily Look Log when opening index.html as a file.
+   Keep in sync with looks.json. Image paths are relative to index.html. */
+window.ALLISON_LOOKS = [
+  {
+    "date": "2026-09-12",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Early autumn Seoul \u2014 sunny",
+      "temp": "17\u201327\u00b0C",
+      "rain": "Low chance of rain"
+    },
+    "occasion": "Saturday casual",
+    "clothes": "Cream/soft white knit + light-wash straight denim; optional thin black/camel belt; thin cardigan if out after dark",
+    "jewelry": "Small gold hoops + thin gold chain + one simple ring",
+    "shoes": "Clean white sneakers (or nude/blush flats)",
+    "hair": "Loose waves, soft part, tucked behind one ear",
+    "note": "Quiet ease for a sunny September Saturday \u2014 light layers, soft gold, nothing trying too hard.",
+    "modelImage": {
+      "src": "images/2026-09-12/model.png",
+      "caption": "Generated model \u2014 cream knit, light denim, white sneakers, quiet gold"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-12/suzy-1.jpg",
+        "caption": "Cream chunky knit + light denim + soft waves \u2014 Saturday casual chic"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-12/suzy-2.jpg",
+        "caption": "Cream cable-knit cardigan + denim + quiet gold"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-12/hyojin-1.jpg",
+        "caption": "Cream knit + light straight denim + white sneakers \u2014 closest full match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-12/hyojin-2.jpg",
+        "caption": "Oversized cream knit + relaxed denim + gold hoops"
+      }
+    ]
+  }
+];
