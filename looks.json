@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-15",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear autumn Seoul \u2014 cool morning, warm afternoon",
+      "temp": "15\u201327\u00b0C",
+      "rain": "Dry / very low rain chance"
+    },
+    "occasion": "Office / smart casual",
+    "clothes": "Soft blush fine knit + charcoal midi skirt + thin black belt optional; lightweight camel cardigan for the cool morning commute",
+    "jewelry": "Small gold hoops + thin gold chain",
+    "shoes": "Nude or soft-blush flats (loafers OK)",
+    "hair": "Soft waves, low half-up for a cleaner office line",
+    "note": "Clear autumn Tuesday \u2014 blush knit, charcoal midi, camel layer for the cool morning, quiet gold.",
+    "modelImage": {
+      "src": "images/2026-09-15/model.png",
+      "caption": "Generated model \u2014 blush knit, charcoal midi, camel cardigan, nude flats"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-15/suzy-1.jpg",
+        "caption": "Fine-knit cardigan + camel midi + quiet gold \u2014 office chic"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-15/suzy-2.jpg",
+        "caption": "Soft blush/pink midi suit + quiet gold + soft waves"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-15/hyojin-1.jpg",
+        "caption": "Soft white knit + dark midi skirt \u2014 closest skirt formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-15/hyojin-2.jpg",
+        "caption": "Soft knit + midi skirt + Mary Jane flats + soft waves"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "weekday": "Monday",
     "weather": {
