@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-16",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Clear autumn Seoul \u2014 cool morning, warm afternoon, big diurnal swing",
+      "temp": "14\u201328\u00b0C",
+      "rain": "Dry / no rain expected"
+    },
+    "occasion": "Office / smart casual",
+    "clothes": "Soft sage fine-gauge crewneck knit tucked into high-waisted cream straight trousers + thin taupe belt; lightweight charcoal open blazer for the cool morning commute (off by afternoon)",
+    "jewelry": "Small silver/white-gold hoops + thin silver chain",
+    "shoes": "Soft taupe leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, tucked behind one ear (or low half-up for meetings)",
+    "note": "Clear Wednesday with a big swing \u2014 sage knit, cream trousers, charcoal layer for the morning chill, quiet silver.",
+    "modelImage": {
+      "src": "images/2026-09-16/model.png",
+      "caption": "Generated model \u2014 sage knit, cream trousers, charcoal blazer, taupe loafers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-16/suzy-1.jpg",
+        "caption": "White shirt + cream beige wide trousers + silver hoops \u2014 cream-trouser office chic"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-16/suzy-2.jpg",
+        "caption": "Navy soft knit over white shirt + quiet polish \u2014 knit layer reference"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-16/hyojin-1.jpg",
+        "caption": "Oversized cream knit + relaxed silhouette \u2014 soft knit half of today\u2019s formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-16/hyojin-2.jpg",
+        "caption": "Camel knit + cream straight trousers \u2014 closest soft-knit + cream pants match"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "weekday": "Tuesday",
     "weather": {
