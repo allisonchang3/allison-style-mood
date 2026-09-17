@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-18",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Cloudy early-autumn Seoul — mild morning, warm afternoon, clearing later; dry in the city",
+      "temp": "19–28°C",
+      "rain": "Dry in Seoul / rain mainly south & Jeju"
+    },
+    "occasion": "Office / smart casual (Friday ease)",
+    "clothes": "Soft lavender fine-gauge short-sleeve crewneck knit tucked into high-waisted dark indigo straight denim + thin taupe belt; lightweight cream open cardigan for the cool cloudy morning (off by the warm afternoon)",
+    "jewelry": "Small silver/white-gold hoops + thin silver chain",
+    "shoes": "Clean minimal white leather sneakers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle side part (low claw clip optional for afternoon)",
+    "note": "Warm cloudy Friday — lavender knit, dark denim, cream cardigan for the morning chill, quiet silver, white sneakers for Friday ease.",
+    "modelImage": {
+      "src": "images/2026-09-18/model.png",
+      "caption": "Generated model — lavender knit, dark denim, cream cardigan, white sneakers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-18/suzy-1.jpg",
+        "caption": "Soft pink-lavender cable knit + dark denim — closest color + knit/denim match"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-18/suzy-2.jpg",
+        "caption": "Soft grey knit + clean white sneakers — sneakers half of today’s Friday ease"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-18/hyojin-1.jpg",
+        "caption": "Cream oversized knit + dark wide denim — cream layer + denim formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-18/hyojin-2.jpg",
+        "caption": "Oversized cream knit, relaxed polish — soft cream knit half of today’s look"
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "weekday": "Thursday",
     "weather": {
