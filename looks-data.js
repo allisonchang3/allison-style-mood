@@ -2,6 +2,47 @@
    Keep in sync with looks.json. Image paths are relative to index.html. */
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-09-19",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Mostly clear early-autumn Seoul — mild morning, warm afternoon, dry in the city",
+      "temp": "19–29°C",
+      "rain": "Dry in Seoul / rain mainly east coast & Jeju"
+    },
+    "occasion": "Weekend casual / going out",
+    "clothes": "Soft blush fine-gauge short-sleeve crewneck knit tucked into high-waisted olive tailored wide-leg trousers + thin taupe belt; lightweight cream open cardigan for the cool morning (off by the warm afternoon)",
+    "jewelry": "Small gold hoops + thin gold pendant chain",
+    "shoes": "Soft taupe leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle center part",
+    "note": "Clear warm Saturday — blush knit, olive wide trousers, cream cardigan for the morning chill, quiet gold, taupe loafers for weekend polish.",
+    "modelImage": {
+      "src": "images/2026-09-19/model.png",
+      "caption": "Generated model — blush knit, olive wide trousers, cream cardigan, taupe loafers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-19/suzy-1.jpg",
+        "caption": "Soft blush ribbed knit + open cardigan — closest color + knit half of today’s look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-19/suzy-2.jpg",
+        "caption": "Muted olive trousers + soft lavender-olive layer — olive bottoms half of today’s formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-19/hyojin-1.jpg",
+        "caption": "Olive-toned outer + cream trousers + loafers — olive/cream + flats match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-19/hyojin-2.jpg",
+        "caption": "Cream neutrals + flat woven loafers — weekend cream layer + flats polish"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "weekday": "Friday",
     "weather": {
