@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-20",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Clear sunny early-autumn Seoul — mild morning, warm afternoon, dry",
+      "temp": "19–29°C",
+      "rain": "Dry / essentially no rain chance"
+    },
+    "occasion": "Sunday casual / cafe going-out",
+    "clothes": "Soft dusty-blue linen-blend sleeveless midi dress with a clean A-line silhouette + thin taupe belt; lightweight cream open cardigan for the cool morning (off by the sunny afternoon)",
+    "jewelry": "Small silver/white-gold hoops + thin silver chain bracelet",
+    "shoes": "Soft cognac flat leather sandals (no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle center part",
+    "note": "Clear warm Sunday — dusty-blue midi, cream cardigan for the morning chill, quiet silver, cognac flat sandals for weekend ease.",
+    "modelImage": {
+      "src": "images/2026-09-20/model.png",
+      "caption": "Generated model — dusty-blue midi, cream cardigan, cognac flat sandals"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-20/suzy-1.jpg",
+        "caption": "Dusty-blue floral midi + cream cable cardigan — closest full formula match"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-20/suzy-2.jpg",
+        "caption": "Cream knit over dusty-blue printed skirt — cream layer + soft blue half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-20/hyojin-1.jpg",
+        "caption": "Cream floral midi dress + soft waves — weekend midi dress silhouette match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-20/hyojin-2.jpg",
+        "caption": "Cream floral dress close-up — light midi fabric + understated polish"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "weekday": "Saturday",
     "weather": {
