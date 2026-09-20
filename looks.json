@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-21",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Partly cloudy early-autumn Seoul — cool morning, hot sunny afternoon, dry",
+      "temp": "19–30°C",
+      "rain": "Dry / rain chance under 15%"
+    },
+    "occasion": "Monday office / smart casual",
+    "clothes": "Crisp ivory poplin button-down tucked into high-waisted charcoal tailored straight trousers + thin taupe belt; lightweight camel unstructured blazer worn open for the cool morning commute (off by the hot afternoon)",
+    "jewelry": "Small gold hoops + thin gold chain necklace",
+    "shoes": "Soft taupe leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves in a low half-up with face-framing pieces",
+    "note": "Warm dry Monday — ivory shirt, charcoal trousers, camel blazer for the morning chill, quiet gold, taupe loafers for office polish.",
+    "modelImage": {
+      "src": "images/2026-09-21/model.png",
+      "caption": "Generated model — ivory shirt, charcoal trousers, camel blazer, taupe loafers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-21/suzy-1.jpg",
+        "caption": "White shirt + olive pleated trousers — closest shirt + tailored trousers formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-21/suzy-2.jpg",
+        "caption": "White shirt under dark tailored blazer — office shirt + dark-tailoring half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-21/hyojin-1.jpg",
+        "caption": "Navy blazer + wide tailored trousers — dark-tailoring silhouette match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-21/hyojin-2.jpg",
+        "caption": "Cream knit + white wide trousers — neutral palette + clean proportions"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "weekday": "Sunday",
     "weather": {
