@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-22",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear early-autumn Seoul — cool foggy morning, hot sunny afternoon, dry",
+      "temp": "18–29°C",
+      "rain": "Dry / rain chance under 10%"
+    },
+    "occasion": "Tuesday office / smart casual",
+    "clothes": "Soft sage short-sleeve silk-blend blouse tucked into a high-waisted cream A-line midi skirt + thin taupe leather belt; lightweight ivory fine-knit cardigan for the cool morning commute (off by the hot afternoon)",
+    "jewelry": "Small silver hoops + thin silver chain necklace",
+    "shoes": "Soft taupe leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, low half-up with face-framing pieces",
+    "note": "Clear warm Tuesday with a cool foggy morning — sage blouse, cream midi, ivory cardigan for the commute, quiet silver, taupe loafers for office polish.",
+    "modelImage": {
+      "src": "images/2026-09-22/model.png",
+      "caption": "Generated model — sage blouse, cream midi, ivory cardigan layer, taupe loafers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-22/suzy-1.jpg",
+        "caption": "Sage pinstripe pussy-bow blouse + navy cardigan — closest sage-blouse half of today’s look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-22/suzy-2.jpg",
+        "caption": "Pale mint-sage tailored top at networking event — sage-adjacent office polish"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-22/hyojin-1.jpg",
+        "caption": "White soft blouse tucked into navy A-line midi skirt — blouse + midi silhouette match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-22/hyojin-2.jpg",
+        "caption": "Cream + muted sage geometric midi dress + flats — cream/sage midi silhouette match"
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "weekday": "Monday",
     "weather": {
