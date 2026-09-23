@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-09-24",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Cloudy first day of Chuseok — cool foggy morning, warm afternoon, dry in Seoul",
+      "temp": "19–28°C",
+      "rain": "Dry in Seoul / rain chance ~5–10%"
+    },
+    "occasion": "Thursday Chuseok holiday / family going-out (smart casual)",
+    "clothes": "Soft olive short-sleeve silk-blend blouse tucked into a high-waisted cream A-line midi skirt + thin taupe leather belt; lightweight soft charcoal open cardigan for the cool cloudy morning (off by the warm afternoon)",
+    "jewelry": "Small gold hoops + slim silver bracelet (mixed metals)",
+    "shoes": "Soft cognac leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle center part",
+    "note": "Cloudy Chuseok Thursday (19–28°C) — olive blouse, cream midi, charcoal cardigan for the morning chill, quiet mixed metals, cognac loafers for holiday polish.",
+    "modelImage": {
+      "src": "images/2026-09-24/model.png",
+      "caption": "Generated model — olive blouse, cream midi, charcoal cardigan, cognac loafers"
+    },
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-24/suzy-1.jpg",
+        "caption": "Cream blouse + olive/sage striped A-line midi outdoors — olive+cream midi color story"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-24/suzy-2.jpg",
+        "caption": "Soft charcoal cable-knit + small gold hoops — charcoal layer + gold jewelry half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-24/hyojin-1.jpg",
+        "caption": "Sage green knit + high-waisted cream midi + thin belt + flat mules — closest full olive/cream midi formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-24/hyojin-2.jpg",
+        "caption": "Charcoal floral midi + thin cognac belt + soft olive/sage hat — charcoal + cognac + olive accent"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "weekday": "Wednesday",
     "weather": {
