@@ -64,31 +64,15 @@
   }
 
   function renderVisuals(look) {
-    const model = look.modelImage;
     const refs = Array.isArray(look.celebrityRefs) ? look.celebrityRefs : [];
-    if (!model && refs.length === 0) return "";
+    if (refs.length === 0) return "";
 
-    let modelHtml = "";
-    if (model && model.src) {
-      const cap = model.caption ? escapeHtml(model.caption) : "Suggested look — generated model";
-      modelHtml = `
-        <div class="look-visual-block">
-          <h4>Model look</h4>
-          <figure class="look-model">
-            <img src="${escapeHtml(model.src)}" alt="${cap}" loading="lazy" />
-            <figcaption>${cap}</figcaption>
-          </figure>
-        </div>`;
-    }
-
-    let celebsHtml = "";
-    if (refs.length) {
-      const items = refs
-        .filter((r) => r && r.src)
-        .map((r) => {
-          const name = r.name ? escapeHtml(r.name) : "Reference";
-          const why = r.caption ? escapeHtml(r.caption) : "";
-          return `
+    const items = refs
+      .filter((r) => r && r.src)
+      .map((r) => {
+        const name = r.name ? escapeHtml(r.name) : "Reference";
+        const why = r.caption ? escapeHtml(r.caption) : "";
+        return `
             <li>
               <figure class="celeb-item">
                 <img src="${escapeHtml(r.src)}" alt="${name}" loading="lazy" />
@@ -98,16 +82,16 @@
                 </figcaption>
               </figure>
             </li>`;
-        })
-        .join("");
-      celebsHtml = `
+      })
+      .join("");
+
+    return `
+      <div class="look-visuals">
         <div class="look-visual-block">
           <h4>Celebrity references</h4>
           <ul class="celeb-grid">${items}</ul>
-        </div>`;
-    }
-
-    return `<div class="look-visuals">${modelHtml}${celebsHtml}</div>`;
+        </div>
+      </div>`;
   }
 
   function renderLook(look) {

@@ -12,7 +12,6 @@ In `looks-data.js` (and mirror in `looks.json`):
 
 - `date`, `weekday`, `weather` (`summary`, `temp`, `rain`), `occasion`
 - `clothes`, `jewelry`, `shoes`, `hair`, `note`
-- `modelImage`: `{ "src": "images/YYYY-MM-DD/model.png", "caption": "..." }`
 - `celebrityRefs`: `[ { "name": "Suzy", "src": "images/.../suzy-1.jpg", "caption": "why it matches" }, ... ]`
 
 Prefer **Suzy** and **Hyojin Kong** for celebrity refs; other celebs only as fallback.
