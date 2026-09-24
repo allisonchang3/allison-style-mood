@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-25",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Cloudy Chuseok day — mild morning, warm afternoon, rain likely later",
+      "temp": "20–27°C",
+      "rain": "Chance of rain ~60% afternoon / ~5mm in Seoul — pack an umbrella"
+    },
+    "occasion": "Friday Chuseok holiday / family going-out (smart casual)",
+    "clothes": "Soft camel fine-gauge crewneck knit tucked into high-waisted charcoal tailored straight trousers + thin taupe leather belt; lightweight ivory open trench or soft cream cardigan for drizzle; structured taupe leather bag",
+    "jewelry": "Small gold hoop earrings + thin gold chain + slim mixed gold/silver bracelet",
+    "shoes": "Cognac leather loafers (flat, no heels)",
+    "hair": "Mid-length soft waves, loosely half-up with a few face-framing pieces",
+    "note": "Chuseok polish in camel/charcoal neutrals with an ivory drizzle layer — pack the umbrella for afternoon rain.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-25/suzy-1.jpg",
+        "caption": "Camel/taupe knit vest + charcoal pleated bottom + soft waves — camel knit + charcoal half"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-25/suzy-2.jpg",
+        "caption": "Camel wrap trench + thin leather belt + small gold hoops + thin gold chain + soft waves — camel layer + jewelry match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-25/hyojin-1.jpg",
+        "caption": "Camel knit cardigan + thin taupe belt + soft waves — camel knit + belt half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-25/hyojin-2.jpg",
+        "caption": "Charcoal tailored blazer + high-waisted charcoal straight trousers — charcoal trousers silhouette match"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "weekday": "Thursday",
     "weather": {
