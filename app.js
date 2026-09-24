@@ -170,3 +170,5 @@
 
   loadLooks();
 })();
+
+/* celebrity-refs-only: no AI model looks */
