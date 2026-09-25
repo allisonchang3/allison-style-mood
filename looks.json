@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-26",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Partly cloudy to cloudy early-autumn Seoul — mild morning, warm afternoon, mostly dry",
+      "temp": "18–26°C",
+      "rain": "Low chance (~6–20%) / possible brief early showers ~1.5mm — mostly dry by afternoon"
+    },
+    "occasion": "Saturday Chuseok holiday wrap-up / weekend casual going-out",
+    "clothes": "Soft cream fine-gauge crewneck knit tucked into soft taupe straight trousers + thin taupe leather belt; lightweight soft dusty-blue open cardigan for the cool morning (off by the warm afternoon); structured taupe leather shoulder bag",
+    "jewelry": "Small mixed gold/silver hoop earrings + thin gold chain + slim silver bracelet",
+    "shoes": "Clean white leather sneakers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle center part",
+    "note": "Chuseok-weekend ease in cream/taupe neutrals with a soft dusty-blue layer for the cool morning — white sneakers keep it Saturday-casual.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-26/suzy-1.jpg",
+        "caption": "Soft grey crewneck knit + medium denim + slim gold-chain bag — cream/grey knit weekend half"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-26/suzy-2.jpg",
+        "caption": "Cream cropped knit polo + charcoal bottom + small silver hoops — cream knit + mixed-metal jewelry half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-26/hyojin-1.jpg",
+        "caption": "Ivory turtleneck knit + ivory straight trousers + black sneakers — closest cream knit + neutral trousers + sneakers formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-26/hyojin-2.jpg",
+        "caption": "Soft dusty-blue knit cardigan with white intarsia — dusty-blue cardigan layer match"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "weekday": "Friday",
     "weather": {
