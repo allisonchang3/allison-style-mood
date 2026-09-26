@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-27",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Clear to fair Chuseok holiday last day — cool foggy morning clearing to sunny warm afternoon, dry in Seoul",
+      "temp": "18–28°C",
+      "rain": "Dry in Seoul / rain chance ~0–10%"
+    },
+    "occasion": "Sunday Chuseok holiday last day / weekend casual going-out",
+    "clothes": "Soft lavender fine-gauge short-sleeve crewneck knit tucked into classic medium-wash straight denim + thin taupe leather belt; lightweight soft camel open cardigan for the cool morning (off by the warm afternoon); structured taupe leather crossbody",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft cognac leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loosely half-up with a few face-framing pieces",
+    "note": "Last Chuseok Sunday in lavender knit + medium denim for weekend ease — camel layer for the 18° morning chill, cognac loafers for quiet polish, then shed the cardigan when it hits the mid-20s.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-27/suzy-1.jpg",
+        "caption": "Soft lavender lilac knit set + dark denim + loafers — closest lavender knit + denim formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-27/suzy-2.jpg",
+        "caption": "Soft pink-lavender fine-gauge knit + medium denim — lavender knit + medium-wash denim half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-27/hyojin-1.jpg",
+        "caption": "Camel jacket + medium straight denim + black loafers — camel layer + denim + flats match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-27/hyojin-2.jpg",
+        "caption": "Soft lavender-stripe knit cardigan + medium denim + gold hoops — lavender knit layer + denim half"
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "weekday": "Saturday",
     "weather": {
