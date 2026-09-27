@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-28",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Overcast early-autumn Seoul — mild morning, warm afternoon, mostly dry",
+      "temp": "19–25°C",
+      "rain": "Mostly dry / rain chance ~10–20%"
+    },
+    "occasion": "Monday office / smart casual — first weekday after Chuseok",
+    "clothes": "Soft olive fine-gauge long-sleeve crewneck knit tucked into classic dark-indigo straight denim + thin taupe leather belt; lightweight soft charcoal unstructured blazer worn open for Monday office polish (easy to shed indoors); structured taupe leather tote",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft taupe leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle side part",
+    "note": "First office Monday after Chuseok in olive knit + dark denim with a soft charcoal blazer for understated polish under overcast 19–25°C — shed the blazer indoors when the afternoon warms.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-28/suzy-1.jpg",
+        "caption": "Olive-sage tailored blazer over cream knit in the office — closest olive + Monday office blazer half"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-28/suzy-2.jpg",
+        "caption": "Light charcoal/grey unstructured blazer + dark straight denim — charcoal blazer + dark-indigo denim formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-28/hyojin-1.jpg",
+        "caption": "Olive-brown geometric knit cardigan with soft waves — olive knit color + soft knit texture match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-28/hyojin-2.jpg",
+        "caption": "Cream fine knit tucked into classic straight denim — knit-into-denim silhouette half"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "weekday": "Sunday",
     "weather": {
