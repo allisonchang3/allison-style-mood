@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-29",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear early-autumn Seoul — cool morning, warm afternoon, dry with a large diurnal swing",
+      "temp": "15–27°C",
+      "rain": "Dry / rain chance ~0–10%"
+    },
+    "occasion": "Tuesday office / smart casual",
+    "clothes": "Soft cream fine-gauge long-sleeve crewneck knit tucked into high-waisted navy A-line midi skirt + thin taupe leather belt; lightweight soft olive open cardigan for the cool morning (easy to shed by the warm afternoon); structured taupe leather tote",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft cognac leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with a gentle side part",
+    "note": "Clear Tuesday office day (15–27°C) — cream knit + navy midi with a soft olive cardigan for the cool morning commute; shed the cardigan when the afternoon warms.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-29/suzy-1.jpg",
+        "caption": "Navy textured tailored set + soft waves — navy office polish / navy midi half of today’s formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-29/suzy-2.jpg",
+        "caption": "Cream blouse + navy denim + cognac loafers — cream top + navy bottom + cognac loafers match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-29/hyojin-1.jpg",
+        "caption": "Olive quilted outer over cream midi skirt — olive layer + cream midi color story"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-29/hyojin-2.jpg",
+        "caption": "Cream fine-gauge long sleeve + cognac loafers with olive accent — cream knit + cognac flats half"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "weekday": "Monday",
     "weather": {
