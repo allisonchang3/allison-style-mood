@@ -2,6 +2,43 @@
    Keep in sync with looks.json. Image paths are relative to index.html. */
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-09-30",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Early-autumn Seoul — mild clear morning, late-afternoon light rain (5–10mm), windier after the front; large diurnal swing",
+      "temp": "17–26°C",
+      "rain": "Light rain late afternoon/evening ~5–10mm (rain chance ~60% afternoon)"
+    },
+    "occasion": "Wednesday office / smart casual",
+    "clothes": "Soft blush fine-gauge long-sleeve crewneck knit tucked into classic high-waisted charcoal straight trousers + thin taupe leather belt; lightweight soft camel trench coat (bring for late-afternoon rain; wear open over the knit through the mild day); structured taupe leather tote",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft black leather loafers (flat, no heels — darker leather for wet sidewalks)",
+    "hair": "Soft mid-length waves, loosely half-up to keep hair off the face in afternoon wind",
+    "note": "Wednesday office day with late rain — blush knit + charcoal trousers under a soft camel trench you can throw on when the afternoon front arrives (17–26°C).",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-30/suzy-1.jpg",
+        "caption": "Soft blush pink fine-gauge long-sleeve knit + small gold hoops — blush knit half of today’s formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-09-30/suzy-2.jpg",
+        "caption": "Classic camel trench worn open (Vogue Korea × Dior) — camel trench for late-afternoon rain"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-30/hyojin-1.jpg",
+        "caption": "Camel coat over charcoal turtleneck knit + half-up waves + gold hoops — camel outer + charcoal knit + half-up hair match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-09-30/hyojin-2.jpg",
+        "caption": "Soft blush pink knit top + high-waisted trousers — blush knit + trouser silhouette half"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "weekday": "Tuesday",
     "weather": {
