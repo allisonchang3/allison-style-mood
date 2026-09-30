@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-01",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Cool crisp first day of October in Seoul — clear/sunny, dry, windy; chilly morning commute",
+      "temp": "15–21°C",
+      "rain": "Dry / rain chance ~0–10%"
+    },
+    "occasion": "Thursday office / smart casual",
+    "clothes": "Soft dusty-blue fine-gauge long-sleeve crewneck knit tucked into classic high-waisted cream straight trousers + thin taupe leather belt; lightweight soft camel wool-blend coat worn open for the cool windy morning (easy to shed indoors); structured taupe leather tote",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft ivory leather sneakers (flat, no heels — fresh Thursday contrast after loafers all week)",
+    "hair": "Soft mid-length waves, low loose twist at the nape to keep hair tidy in the wind",
+    "note": "Cool windy Thursday (15–21°C, dry) — dusty-blue knit + cream trousers under a soft camel coat you can shed indoors; ivory sneakers keep it modern, not stiff.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-01/suzy-1.jpg",
+        "caption": "Soft dusty blue-grey knit hoodie + high-waisted cream straight trousers + white sneakers — dusty-blue knit + cream trousers + ivory sneakers formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-01/suzy-2.jpg",
+        "caption": "Soft camel trench coat cinched with low nape twist — camel coat layer + wind-tidy low twist hair match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-01/hyojin-1.jpg",
+        "caption": "Dusty-blue fine-gauge long-sleeve crewneck knit street style + soft waves — dusty-blue knit half of today’s formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-01/hyojin-2.jpg",
+        "caption": "Oversized camel wool pea coat (Noblesse) worn open — soft camel coat layer for the cool windy commute"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "weekday": "Wednesday",
     "weather": {
