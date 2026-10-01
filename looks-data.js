@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-02",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Cool clear early-October Seoul — chilly morning, mild sunny afternoon, dry with a large diurnal swing; light wind",
+      "temp": "12–21°C",
+      "rain": "Dry / rain chance ~0–10%"
+    },
+    "occasion": "Friday office / smart casual",
+    "clothes": "Soft cream fine-gauge long-sleeve turtleneck layered under a camel ribbed sleeveless midi knit dress (gently fitted, not bodycon) + thin taupe leather belt; lightweight soft charcoal unstructured wool-blend coat worn open for the chilly clear morning (easy to shed by the mild afternoon); structured black leather tote",
+    "jewelry": "Small silver hoop earrings + thin gold chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft black leather oxford flats (flat, no heels)",
+    "hair": "Soft mid-length waves, loose with one side tucked behind the ear",
+    "note": "Cool clear Friday (12–21°C) — camel midi knit dress over cream turtleneck breaks the week’s crewneck+trousers streak; charcoal coat for the chilly commute, black oxfords for quiet polish.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-02/suzy-1.jpg",
+        "caption": "Camel ribbed sleeveless midi knit dress over cream turtleneck + silver hoops + black oxford flats (GUESS) — full dress formula + flats match"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-02/suzy-2.jpg",
+        "caption": "Soft black textured mid-length coat with silver accents (GUESS Winter) — charcoal/black coat layer for the chilly morning"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-02/hyojin-1.jpg",
+        "caption": "Dark navy coat worn open + taupe trousers + black flats outdoors — dark coat layer + black flats half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-02/hyojin-2.jpg",
+        "caption": "Cream cable-knit vest over white blouse + camel trousers — cream + camel knit neutrals half of today’s formula"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "weekday": "Thursday",
     "weather": {
