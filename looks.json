@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Clear cool 개천절 Saturday in Seoul — chilly morning, mild sunny afternoon, dry with a large diurnal swing; light wind",
+      "temp": "11–23°C",
+      "rain": "Dry / rain chance ~0–10%"
+    },
+    "occasion": "Saturday 개천절 holiday / weekend casual going-out",
+    "clothes": "Soft sage fine-gauge long-sleeve crewneck knit tucked into classic medium-wash straight denim + thin taupe leather belt; lightweight soft camel open cardigan for the chilly morning (easy to shed by the mild sunny afternoon); structured taupe leather crossbody",
+    "jewelry": "Small gold hoop earrings + thin silver chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft cognac leather loafers (flat, no heels)",
+    "hair": "Soft mid-length waves, loosely half-up",
+    "note": "Clear cool 개천절 Saturday (11–23°C, dry) — sage knit + medium straight denim under a soft camel cardigan you can shed by afternoon; cognac loafers keep the holiday weekend polished without office formality.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-03/suzy-1.jpg",
+        "caption": "Soft sage/mint fine-gauge knit + high-waisted medium denim + silver hoops (GUESS) — sage knit + medium denim formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-03/suzy-2.jpg",
+        "caption": "Soft knit + medium straight denim + chunky loafers, soft waves with one side tucked (GUESS) — denim + loafers + weekend waves match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-03/hyojin-1.jpg",
+        "caption": "Soft sage fine-gauge crewneck knit (Thursday Island) with soft waves — sage knit half of today’s formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-03/hyojin-2.jpg",
+        "caption": "Camel-taupe knit cardigan + thin taupe belt + medium denim + soft waves (Thursday Island) — camel cardigan layer + belt + denim match"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "weekday": "Friday",
     "weather": {
