@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Cloudy early-October Seoul Sunday — mild day (warmest ~24°C), cooler morning; rain chance low until late evening then rising (~60%) with light showers possible after dark; light–moderate wind later",
+      "temp": "15–24°C",
+      "rain": "Mostly dry daytime; light evening/night rain possible (~5–10mm, rain chance ~20% morning / ~60% late evening)"
+    },
+    "occasion": "Sunday weekend casual going-out",
+    "clothes": "Soft lavender fine-gauge long-sleeve crewneck knit tucked into classic dark-indigo straight denim + thin taupe leather belt; lightweight soft charcoal unstructured cardigan worn open for the cooler morning and evening rain chance (easy to shed by the mild afternoon); structured black leather crossbody; compact umbrella for late evening",
+    "jewelry": "Small silver hoop earrings + thin gold chain + slim mixed gold/silver bracelet",
+    "shoes": "Soft black leather sneakers (flat, no heels — rain-ready Sunday ease after loafers yesterday)",
+    "hair": "Soft mid-length waves in a low loose ponytail",
+    "note": "Cloudy mild Sunday (15–24°C) with evening rain risk — lavender knit + dark-indigo denim under a soft charcoal cardigan you can shed midday; black sneakers stay practical if sidewalks get wet after dark; low pony keeps hair tidy without repeating yesterday’s half-up.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-04/suzy-1.jpg",
+        "caption": "Soft lavender fuzzy knit twinset + dark wide-leg denim + soft waves (GUESS) — lavender knit + dark denim formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-04/suzy-2.jpg",
+        "caption": "Soft lavender fine-gauge knit + dark high-waisted denim + gold hoops + soft waves (GUESS) — lavender knit + dark denim + mixed-metal jewelry half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-04/hyojin-1.jpg",
+        "caption": "Soft dusty-blue knit cardigan + dark floral midi + low pony + silver rings (Thursday Island) — soft knit layer + low ponytail hair match"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-04/hyojin-2.jpg",
+        "caption": "Taupe Fair Isle knit cardigan + medium denim + thin sand belt + soft waves (Thursday Island) — knit cardigan layer + denim + thin belt match"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "weekday": "Saturday",
     "weather": {
