@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-05",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Clear, sunny early-October Monday in Seoul after overnight showers cleared before dawn — cool ~15°C commute, mild ~19°C mid-afternoon, back near 15°C by evening; light breeze",
+      "temp": "14–19°C",
+      "rain": "Dry all day (rain chance ~0–2% from morning on)"
+    },
+    "occasion": "Monday office / smart casual",
+    "clothes": "Soft dusty-blue fine-stripe cotton button-down shirt (relaxed, not boxy) neatly tucked into classic medium-wash straight denim + thin cognac leather belt; dark chocolate-brown relaxed single-breasted blazer with a soft shoulder, worn open (easy to slip off by the mild afternoon); structured cognac leather shoulder bag",
+    "jewelry": "Small gold huggie hoops + thin gold chain at the open collar + slim silver-tone watch (mixed metals)",
+    "shoes": "Black leather Mary Jane flats (flat, no heels)",
+    "hair": "Soft mid-length waves worn down with a centre part and a little lift at the crown",
+    "note": "A break from this week's tucked-knit run: crisp dusty-blue stripe shirt + medium denim under a chocolate-brown blazer reads polished for Monday without feeling formal. The blazer is right for the cool 15°C commute and comes off by afternoon; dry skies, so leather Mary Janes are safe.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-05/suzy-1.jpg",
+        "caption": "Dark brown relaxed blazer over a blue stripe shirt + belted medium straight denim + cognac bag — near-full formula match"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-05/suzy-2.jpg",
+        "caption": "Brown suede jacket over a cream blouse + medium-wash jeans (GUESS FW25) — brown jacket + denim half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-05/hyojin-1.jpg",
+        "caption": "Pale blue shirt + dark high-waisted straight denim + cream shoulder bag + flats (New York) — soft-blue shirt + denim half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "weekday": "Sunday",
     "weather": {
