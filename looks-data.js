@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-06",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear, crisp early-October Tuesday in Seoul — chilly ~11°C commute, warming to ~20°C mid-afternoon, easing to ~16°C by evening; dry with only a light breeze (max ~9 km/h)",
+      "temp": "10–20°C",
+      "rain": "Dry all day (rain chance 0%)"
+    },
+    "occasion": "Tuesday office / smart casual",
+    "clothes": "Soft navy fine-gauge long-sleeve crewneck knit neatly tucked into a high-waisted soft dove-grey pleated midi skirt (fluid, falls just below the knee) + thin black leather belt; classic stone-taupe trench coat worn open with the belt knotted loosely at the back for the chilly 11°C commute (easy to drape over the bag by the 20°C afternoon); structured black leather top-handle bag",
+    "jewelry": "Small pearl stud earrings + thin gold chain + slim silver-tone bangle (mixed metals, quiet)",
+    "shoes": "Black leather penny loafers (flat, no heels)",
+    "hair": "Soft mid-length waves worn down with a deep side part, swept over one shoulder",
+    "note": "A fresh colour story and silhouette after a week of denim and trousers: navy knit + grey pleated midi under a stone trench is quietly preppy dark tailoring for Tuesday. The trench handles the cool 11°C start and comes off by afternoon; with zero rain, leather loafers and the black top-handle bag are safe all day.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-06/suzy-1.jpg",
+        "caption": "Black double-breasted tailored coat + structured black Celine top-handle bag + soft long waves (Celine show, Paris, Oct 2026) — dark tailoring + black top-handle bag half"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-06/suzy-2.jpg",
+        "caption": "Long beige trench worn open over a black top + light trousers + structured black leather bag (Instagram, via Cosmopolitan Korea) — trench + black bag formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-06/hyojin-1.jpg",
+        "caption": "Taupe trench worn open over a muted mint shirt + grey trousers (Instagram, via Harper's Bazaar Korea) — stone trench + soft grey bottom half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-06/hyojin-2.jpg",
+        "caption": "Dusty-blue trench worn open over an oatmeal knit midi dress, striped knit tied at the waist (Instagram, via Harper's Bazaar Korea) — trench-over-midi proportion match"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "weekday": "Monday",
     "weather": {
