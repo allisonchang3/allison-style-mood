@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-07",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Clear, cloudless early-October Wednesday in Seoul — cool ~12–13°C commute, warming to ~21.5°C from 1–4pm, easing to ~17°C by 7pm and ~16°C around 9pm for dinner; dry with only a very light breeze (max ~7 km/h)",
+      "temp": "12–21.5°C",
+      "rain": "Dry all day (rain chance 0%, 0 mm)"
+    },
+    "occasion": "Wednesday office / smart casual → easy after-work dinner",
+    "clothes": "Soft oatmeal-mushroom fine-gauge button-front cardigan worn fully buttoned as a top (slim, fitted-but-not-tight) loosely tucked into a high-waisted deep olive satin-finish bias midi slip skirt (fluid, falls to mid-calf, not clingy); soft caramel-tan suede shirt-jacket worn open for the 12°C morning, easy to drape over the bag by the 21°C afternoon and back on for the ~16°C walk to dinner; structured dark espresso-brown leather shoulder bag",
+    "jewelry": "Small gold dome stud earrings + delicate silver chain with a tiny pendant + slim gold bangle and a thin silver ring (mixed metals, quiet)",
+    "shoes": "Soft black leather round-toe ballet flats (flat, no heels)",
+    "hair": "Sleek low chignon at the nape with a centre part, a couple of soft waves left loose to frame the face",
+    "note": "A fresh texture-led story after a week of knits-with-denim and a pleated midi: cardigan-as-top + olive satin slip skirt + caramel suede is quietly polished for the office and instantly dinner-ready. The suede jacket handles the cool 12°C start and comes off by afternoon; with a clear, zero-rain forecast, suede and leather ballet flats are safe all day, and the sleek low chignon keeps it neat from desk to dinner table.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-07/suzy-1.jpg",
+        "caption": "Khaki-brown suede shirt-jacket + matching suede skirt, hair pulled back off the face (Instagram, via Cosmopolitan Korea) — suede jacket texture + earthy olive-brown tone + sleek pulled-back hair"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-07/hyojin-1.jpg",
+        "caption": "Mushroom-taupe knit cardigan worn buttoned as a top, asymmetric button line, soft neat hair (Instagram, via Harper's Bazaar Korea) — oatmeal cardigan-as-top half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-07/hyojin-2.jpg",
+        "caption": "Olive soft knit + slouchy khaki suede shoulder bag in New York, hair tied back low (Instagram, via MK View Girl's Pick) — olive + suede tone-on-tone half"
+      },
+      {
+        "name": "Jung Ryeo-won",
+        "src": "images/2026-10-07/ryeowon-1.jpg",
+        "caption": "Dark satin slip midi skirt with a relaxed shirt on top + black flats + hair pulled back (Instagram, via Fashion Seoul) — fallback ref for the satin slip midi + flat shoes formula"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "weekday": "Tuesday",
     "weather": {
