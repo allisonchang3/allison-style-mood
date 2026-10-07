@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-08",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Clear, cloudless early-October Thursday in Seoul (0% cloud cover all day) — crisp 11–12°C commute (low 11.1°C around 6–7am, ~12°C at 8am, 14°C by 9am), warming to ~20°C at noon and a peak of 22.7°C around 3pm, easing to ~20°C at 6pm, ~19°C at 7pm and ~17°C by 9pm; dry and almost windless (max ~4 km/h)",
+      "temp": "11.1–22.7°C",
+      "rain": "Dry all day (rain chance 0%, 0 mm)"
+    },
+    "occasion": "Thursday office / smart casual → easy after-work coffee or a glass of wine to kick off the Hangul Day (Oct 9) long weekend",
+    "clothes": "Soft blush-pink fine-gauge long-sleeve crewneck knit (slim, fitted-but-not-tight) neatly tucked into high-waisted light-wash wide-leg denim (full length, clean hem) + thin black leather belt; black bouclé-tweed collarless cropped jacket with small gold buttons, worn closed for the 11°C morning, draped over the shoulders or carried for the 22–23°C mid-afternoon and back on after ~6pm; structured black leather flap shoulder bag with a small gold clasp",
+    "jewelry": "Small gold knot stud earrings (echoing the jacket's gold buttons) + delicate silver chain with a single tiny pearl drop + slim silver cuff bracelet and a thin gold ring (mixed metals, quiet)",
+    "shoes": "Soft ivory leather loafers (flat, no heels)",
+    "hair": "Sleek mid-height ponytail with a centre part and a strand wrapped around the base, soft waves left in the length and a few face-framing pieces loose",
+    "note": "A fresh Parisian-preppy story after a week of trench, suede and cardigan layers: the black bouclé jacket with gold buttons is new dark polish for the office, blush returns as the soft accent for the first time since late September, and light-wash wide denim keeps it modern rather than formal. With a clear, zero-rain, near-windless forecast, ivory leather loafers are safe all day, the cropped jacket handles the 11°C start and comes off for the 22.7°C afternoon, and the sleek ponytail stays neat from desk to after-work drinks.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-08/suzy-1.jpg",
+        "caption": "Black bouclé-tweed jacket with gold buttons + light-wash wide flare denim, hair pulled back, at a Paris café terrace (Instagram, via Pick Daily, Oct 2026) — black gold-button jacket + light wide denim formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-08/suzy-2.jpg",
+        "caption": "Navy sweatshirt + light-wash wide denim + structured black leather top-handle bag + ivory flat loafers, long hair down (Instagram, via Pick Daily, Oct 2026) — light wide denim + black structured bag + ivory loafers half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-08/hyojin-1.jpg",
+        "caption": "Soft blush-pink cotton jacket with soft mid-length waves at a café (Instagram, via Harper's Bazaar Korea) — blush accent half of today's look"
+      },
+      {
+        "name": "Kim Go-eun",
+        "src": "images/2026-10-08/goeun-1.jpg",
+        "caption": "Black tweed jacket + washed wide-leg denim + black Mary Jane flats, Incheon Airport (Jan 2026, via Fashion Seoul) — fallback ref for the black jacket + wide denim + flat shoes formula"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "weekday": "Wednesday",
     "weather": {
