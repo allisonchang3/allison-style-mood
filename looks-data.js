@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Mostly cloudy to fair early-October Saturday in Seoul — cool ~13°C morning commute (low ~12.9°C), warming to a mild ~20°C by noon and peaking around 24°C mid-afternoon, easing to ~18–20°C by evening; dry all day with almost no wind (max ~4 km/h)",
+      "temp": "12.9–24.0°C",
+      "rain": "Dry all day (rain chance 0%, 0 mm)"
+    },
+    "occasion": "Saturday weekend casual going-out — Hangul Day long weekend, café / errands / easy dinner",
+    "clothes": "Soft camel-taupe fine-gauge long-sleeve crewneck knit (slim, fitted-but-not-tight) neatly tucked into high-waisted cream linen-blend wide-leg trousers (full length, soft drape) + thin cognac leather belt; lightweight soft olive unstructured linen-cotton shirt-jacket worn open for the ~13°C morning, carried or off for the ~24°C afternoon; structured cognac leather crossbody bag",
+    "jewelry": "Small gold huggie hoops + delicate silver chain with a tiny disc pendant + slim mixed gold-and-silver bracelet + thin gold ring (mixed metals, quiet)",
+    "shoes": "Soft cognac leather ballet flats (flat, no heels)",
+    "hair": "Soft mid-length waves loosely half-up with a soft twist at the crown and face-framing pieces loose",
+    "note": "A warm, dry Saturday on the Hangul Day long weekend calls for lighter neutrals than the week's office knits and denim: camel-taupe knit + cream wide trousers is a fresh tonal story after blush denim (Thu), olive slip (Wed), and navy-grey pleats (Tue). The olive shirt-jacket covers the 13°C start and comes off for the 24°C afternoon; cognac flats and a cognac crossbody keep it weekend-easy without sneakers or loafers already used this week.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-10/suzy-1.jpg",
+        "caption": "Ivory button-down + navy knit draped over shoulders + light denim + cognac-tan Celine bag, low soft pony (Incheon Airport, Mar 2025, via MK) — ivory top + cognac bag + weekend polish half"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-10/suzy-2.jpg",
+        "caption": "Soft taupe-mushroom textured knit sweater with soft waves down, bookstore casual (Instagram walk series, via Fannstar, Oct 2026) — camel-taupe knit half of today's formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-10/hyojin-1.jpg",
+        "caption": "Camel-brown fine-gauge crewneck knit + cream straight trousers + tan leather bucket bag, soft hair pulled back (Instagram, via MK, Mar 2025) — near-full knit + cream trousers + cognac-tan bag formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-10/hyojin-2.jpg",
+        "caption": "Cream long-sleeve soft top + light-wash straight denim + cream tote, weekend park walk (Instagram, via MK, May 2025) — cream neutrals + weekend casual half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "weekday": "Thursday",
     "weather": {
