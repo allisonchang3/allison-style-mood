@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Partly cloudy to fair mid-October Sunday in Seoul — cool ~14°C morning (low 14.0°C), warming to a mild ~20°C by late morning and peaking around 25°C mid-afternoon, easing to ~18–20°C by evening; dry morning with only a slight chance of brief inland afternoon showers south of the city, almost no wind (max ~5 km/h)",
+      "temp": "14.0–25.4°C",
+      "rain": "Dry morning; slight chance of brief inland afternoon showers (Seoul proper mostly dry, 0 mm expected)"
+    },
+    "occasion": "Sunday weekend casual going-out — café / errands / easy afternoon walk",
+    "clothes": "Soft white cotton button-down shirt (sleeves rolled) neatly tucked into high-waisted soft olive-taupe wide-leg trousers (full length, soft pleat drape) + thin taupe leather belt; lightweight soft black unstructured linen-cotton shirt-jacket worn open for the ~14°C morning, carried or off for the ~25°C afternoon; structured cognac-brown leather crossbody bag",
+    "jewelry": "Small silver hoop earrings + delicate thin gold chain + slim mixed gold-and-silver bracelet + thin gold ring (mixed metals, quiet)",
+    "shoes": "Soft white leather sneakers (flat, no heels)",
+    "hair": "Soft mid-length waves worn down with a centre part and face-framing pieces loose",
+    "note": "A warmer dry Sunday (14–25°C) after yesterday's camel knit + cream trousers wants a fresher, lighter formula: crisp white shirt + olive-taupe wide trousers flips the palette and sheds the long-sleeve knit for the 25°C peak. Black shirt-jacket covers the cool start; white sneakers keep it weekend-easy after cognac flats (Sat), ivory loafers (Thu), and black sneakers last Sunday.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-11/suzy-1.jpg",
+        "caption": "White button-down tucked into soft olive-taupe wide-leg trousers + cognac-brown crossbody with red scarf accent, soft waves, Incheon Airport to Paris (Jul 2025, via Xportsnews) — near-full formula match"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-11/suzy-2.jpg",
+        "caption": "Cream fuzzy knit cardigan + medium-wash denim + soft windswept waves (Instagram casual) — soft cream knit half + weekend ease"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-11/hyojin-1.jpg",
+        "caption": "Oversized cream crewneck knit + mid-wash wide-leg denim + black leather flats at a sunny café (London, Sep 2024, via Daum/Instagram) — cream soft top + relaxed bottom + flats weekend half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-11/hyojin-2.jpg",
+        "caption": "Camel-brown fine-gauge crewneck knit + cream straight trousers + tan leather bucket bag, casual walk (Instagram, via MK Sports, Mar 2025) — warm knit + cream trousers neutrals half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "weekday": "Saturday",
     "weather": {
