@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-12",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Mostly cloudy mid-October Monday in Seoul — mild ~17°C morning commute, warming to a comfortable ~20–22°C by late morning and peaking around 26°C mid-afternoon, easing to ~20–22°C by evening; light wind (~7 km/h); afternoon–evening inland shower chance rising after ~15:00 (about 5–10 mm possible, ~60–80% by late afternoon)",
+      "temp": "17–26°C",
+      "rain": "Dry morning; afternoon–evening inland showers ~5–10 mm likely after ~15:00 — bring a compact fold umbrella"
+    },
+    "occasion": "Monday office / smart casual — possibly light after-work plans",
+    "clothes": "Soft sage fine-gauge long-sleeve crewneck knit (slim, fitted-but-not-tight) neatly tucked into high-waisted cream wool-blend tailored trousers (full length, soft crease) + thin taupe leather belt; lightweight soft charcoal unstructured cotton-blend blazer worn open for the ~17°C morning / AC office, off for the ~26°C peak; structured black leather shoulder bag + compact fold umbrella for afternoon showers",
+    "jewelry": "Small gold huggie hoops + delicate silver bar pendant chain + slim mixed gold-and-silver bracelet + thin gold ring (mixed metals, quiet)",
+    "shoes": "Soft black leather penny loafers (flat, no heels)",
+    "hair": "Soft mid-length waves worn down with a deep side part and face-framing pieces loose",
+    "note": "A warm shower-day Monday (17–26°C) wants light layers and an umbrella: sage + cream is a fresh office palette after weekend olive/white and camel/cream. Soft charcoal unstructured blazer is new dark polish vs black bouclé (Thu), chocolate (Mon), and trench (Tue); black penny loafers after weekend sneakers/flats. Blazer on for the cool start and office AC, off for the 26°C peak.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-12/suzy-1.jpg",
+        "caption": "Oatmeal-cream fine-gauge mock-neck knit + matching cream tailored trousers + small gold huggies + soft waves with a side part (studio / city window, via MK, Aug 2025) — cream soft knit + cream trousers half of today's formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-12/suzy-2.jpg",
+        "caption": "Oversized soft charcoal/black unstructured blazer worn open + mid-wash wide denim + structured black leather top-handle bag + soft long waves, cobblestone street walk (Paris Instagram series, via MK View, Mar 2026) — charcoal unstructured blazer + black structured bag half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-12/hyojin-1.jpg",
+        "caption": "Soft sage-mint fine-gauge crewneck knit under a cream teddy layer, soft waves (Thursday Island winter knit campaign, via Fashion Seoul) — sage fine-gauge crewneck half of today's formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-12/hyojin-2.jpg",
+        "caption": "Cream floral tee + white mini + chunky black leather penny loafers with white crew socks, soft waves with bangs (Instagram boutique play, via Harper's Bazaar Korea) — black penny loafers + cream neutrals half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "weekday": "Sunday",
     "weather": {
