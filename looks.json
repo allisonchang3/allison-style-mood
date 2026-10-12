@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-13",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Wet, cooler mid-October Tuesday in Seoul — light rain/drizzle through the morning commute (~70–100% early, easing by midday), then cloudy through the afternoon; ~15–16°C at commute time rising to a high around 21–22°C; humid morning; light–moderate W/NW wind ~10–18 km/h. Noticeably cooler than Monday's 26°C peak",
+      "temp": "15–22°C",
+      "rain": "Morning showers/drizzle, easing midday then cloudy — bring a compact fold umbrella and rain-friendly flats"
+    },
+    "occasion": "Tuesday office / smart casual — rainy commute",
+    "clothes": "Soft heather-grey fine-gauge turtleneck (slim, fitted-but-not-tight) neatly tucked into a high-waisted soft black wool-blend A-line midi skirt; soft stone-taupe water-resistant trench worn closed and belted for the rainy morning commute (open or off once the rain clears / for office AC); structured black leather shoulder bag + compact fold umbrella",
+    "jewelry": "Small silver huggie hoops + delicate thin gold chain + slim silver bangle + thin gold ring (mixed metals, quiet)",
+    "shoes": "Soft black leather loafers with rubber soles (flat, rain-friendly — no heels)",
+    "hair": "Soft low ponytail with a centre part and a few face-framing pieces (practical for the humid, drizzly morning)",
+    "note": "A drizzly, cooler Tuesday (15–22°C) wants a closed trench, a covered neckline and grippy flats. After Monday's sage knit + cream trousers + charcoal blazer + waves, this switches to a grey turtleneck + black A-line midi + taupe rain trench + low pony — a quiet greyscale office formula with the trench doing the weather work. Rubber-soled black loafers handle wet pavements; the trench comes off at the desk to leave a clean grey-and-black base.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-13/suzy-1.jpg",
+        "caption": "Beige-khaki trench worn closed and belted (corset-belt detail), full-length flowing skirt, black ankle boots, sleek low chignon with centre part (Dior event, Seoul, May 2022, via Newsen) — taupe trench worn closed + sleek pulled-back hair half of today's rainy commute"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-13/suzy-2.jpg",
+        "caption": "Black turtleneck under a long black tailored coat cinched with a black leather sash, long black skirt + black flats, hair pulled back in a low braided twist (Celine editorial, Elle Korea Oct 2026) — black turtleneck + black long-skirt base, all-dark polish"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-13/hyojin-1.jpg",
+        "caption": "Light-beige long trench tied closed at the waist + black lace-up shoes (red socks, blue tote as her playful twist) on a New York street (Instagram, Aug 2025, via MK) — pale trench worn belted and closed for the commute"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-13/hyojin-2.jpg",
+        "caption": "Classic navy-black double-breasted trench worn closed and belted + black leather boots, long hair down with bangs (Burberry Seoul flagship trench bespoke, Jan 2021, via Pickcon) — trench-closed silhouette + dark base for a wet day"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "weekday": "Monday",
     "weather": {
