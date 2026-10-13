@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-14",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Cool, dry, overcast mid-October Wednesday in Seoul — about 9–10°C at the morning commute, rising to a high around 17°C mid-afternoon and easing to ~14°C in the evening; no rain expected (0% chance); light wind under ~10 km/h. Noticeably cooler and drier than Tuesday's drizzly 15–22°C",
+      "temp": "9–17°C",
+      "rain": "Dry all day — no umbrella needed"
+    },
+    "occasion": "Wednesday office / smart casual",
+    "clothes": "Soft dusty-blue fine-gauge V-neck knit layered over a crisp white cotton collared shirt (collar and cuffs just peeking out), neatly tucked into high-waisted dark-indigo straight-leg denim + thin cognac leather belt; relaxed navy wool-blend single-breasted blazer (soft shoulders, not boxy) buttoned for the chilly 9°C morning and worn open by midday; structured cognac-tan leather shoulder bag",
+    "jewelry": "Small gold hoops + delicate silver chain with a tiny round pendant + classic silver-steel watch stacked with a slim gold bangle + thin silver ring (mixed metals, quiet)",
+    "shoes": "Dark-brown suede penny loafers (flat — no heels)",
+    "hair": "Soft mid-length waves half-up with a small tortoiseshell claw clip and a centre part, a few face-framing pieces left loose",
+    "note": "A cool, dry, grey Wednesday (9–17°C) is perfect for quietly preppy layering: shirt collar under a soft V-neck under a navy blazer gives three thin layers that handle the chilly commute and peel back for the afternoon. After Tuesday's greyscale turtleneck + black midi + rain trench, this switches to tonal blues — dusty blue, navy and dark indigo — broken up by the white collar and cognac belt, bag and brown suede loafers. Denim keeps it relaxed; the blazer and tuck keep it office-ready.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-14/suzy-1.jpg",
+        "caption": "Navy single-breasted blazer worn open over a white top + light-wash straight denim (Wonderland press conference, Seoul, May 2024, via ViewUs) — navy blazer + denim office formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-14/hyojin-1.jpg",
+        "caption": "Navy blazer worn open over a crisp white tee (with black shorts and white socks), hair pulled back (Instagram, Mar 2024, via Star&Fashion) — relaxed navy blazer over a white base"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-14/hyojin-2.jpg",
+        "caption": "Soft blue V-neck knit layered over a buttoned henley so the inner layer peeks out, at a café (Instagram, via Harper's Bazaar Korea, Aug 2026) — blue V-neck-over-shirt layering half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-14/hyojin-3.jpg",
+        "caption": "Two-shot Instagram post: ivory button-front shirt with dark-indigo straight denim on a rooftop, plus an all-white outfit with red flats (via Harper's Bazaar Korea, Aug 2026) — white shirt + dark straight denim base"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "weekday": "Tuesday",
     "weather": {
