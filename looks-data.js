@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-24",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Mild, overcast late-October Saturday in Seoul: about 13°C in the morning rising to around 18°C mid-afternoon, mostly cloudy, dry (rain chance tops out near 20%, no measurable rain), and almost windless.",
+      "temp": "13–18°C",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Saturday weekend casual / café and errands, easy going-out",
+    "clothes": "Soft navy fine-gauge crewneck knit over a white cotton tee (hem just peeking), high-waisted light-to-mid-wash straight jeans with a slight flare at the hem + thin cognac leather belt; stone-beige cotton-twill overshirt jacket worn open for the 13°C morning and carried by afternoon; structured black leather top-handle bag with a crossbody strap",
+    "jewelry": "Small gold hoops + thin gold chain + slim silver watch + thin gold ring (quiet mixed metals)",
+    "shoes": "Ivory leather ballet flats (swap to clean white leather sneakers if it's a long walking day). No heels.",
+    "hair": "Centre-parted loose waves worn down, with the front pieces twisted back and pinned with a small gold barrette",
+    "note": "A grey, calm, dry Saturday is perfect for the navy-knit-and-denim weekend formula: the white tee hem and stone overshirt keep it quietly preppy, the slightly flared light denim and ivory flats keep it relaxed, and the black structured bag makes it look finished for a café or a casual dinner.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-24/suzy-1.jpg",
+        "caption": "Navy knit + light-wash flared jeans + ivory flats + structured black top-handle bag, long waves down (Paris Instagram, Oct 2026, via X fan repost) — the core navy-knit, denim and flats formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-24/suzy-2.jpg",
+        "caption": "Brown jacket worn open over a white tee + flared mid-wash denim, soft waves (GUESS Winter 2026 campaign, via Fashion Seoul) — open-jacket-over-white-base and flared denim half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-24/hyojin-1.jpg",
+        "caption": "Stone-beige jacket over a white shirt + mid-wash straight jeans + white sneakers + big black tote (depound Spring 2026 campaign, via Fashion Seoul) — stone overshirt layer + denim, and the sneaker swap"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "weekday": "Wednesday",
     "weather": {
