@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Clear-to-partly-cloudy late-October Sunday in Seoul with a big temperature swing: about 10°C first thing, warming to around 23°C by mid-afternoon, then back near 17°C by evening. Dry (rain chance peaks around 15% late afternoon, no measurable rain) and light breeze.",
+      "temp": "10–23°C",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Sunday weekend casual / brunch, café and a walk, easy into an early dinner",
+    "clothes": "Tonal ivory: a soft cream half-zip (or wide-collar) knit, relaxed but neat, over a white tee, with high-waisted ecru straight-leg jeans (half-tuck the knit front). Layer a light stone-taupe trench for the 10°C morning and carry it once it hits the low 20s (sleeves of the knit pushed up). Structured espresso-brown leather shoulder bag to ground all the cream.",
+    "jewelry": "Silver-led this time: small chunky silver hoops + thin silver chain + slim gold watch + two thin stacked rings (one gold, one silver)",
+    "shoes": "Black leather penny loafers with thin white socks peeking (swap to clean white sneakers for a longer walk). No heels.",
+    "hair": "Loose low ponytail at the nape with the waves left soft, a few face-framing pieces out, tied with a thin black ribbon or small tortoiseshell clip",
+    "note": "A sunny, dry Sunday with a 13-degree swing calls for a single tonal base you can strip down to: cream knit plus ecru denim looks fresh and expensive, the trench handles the chilly morning, and the black loafers and dark bag keep the all-pale look from feeling washed out. Quietly preppy, very different from yesterday's navy-and-blue-denim.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-25/suzy-1.jpg",
+        "caption": "Oversized cream half-zip knit + white denim + black shoulder bag, long loose hair, mirror selfie in a Celine store (Paris Instagram story, Oct 2026, via X fan repost) — the tonal ivory knit-and-pale-denim formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-25/hyojin-1.jpg",
+        "caption": "White top + white straight jeans + flat shoes + pale shoulder bag, weekend errand (Instagram, via Fashion Seoul) — all-pale tonal denim half and the relaxed weekend ease"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-25/hyojin-2.jpg",
+        "caption": "Cream button shirt + dark trousers + black loafers with white socks at a café terrace (Instagram, via Fashion Seoul) — cream top + black loafers-and-white-socks half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "weekday": "Saturday",
     "weather": {
