@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-26",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Mostly clear late-October Monday in Seoul: about 14°C on the morning commute, warming to around 21°C by mid-afternoon, then back to about 17°C by 7pm. Dry (rain chance tops out near 25% mid-afternoon, no measurable rain) and calm, with only a light breeze.",
+      "temp": "14–21°C",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Monday office / smart casual",
+    "clothes": "A soft taupe-grey textured crewneck knit, relaxed but not oversized, with the hem of a white tee just showing at the neckline and waist, worn with high-waisted black wool wide-leg trousers (front half-tuck so the waist still reads). Loop a slim black wool scarf for the 14°C commute and drop it in your bag by lunch. Structured black leather shoulder bag.",
+    "jewelry": "Gold-led to switch from yesterday's silver: small gold knot studs, thin gold chain, slim gold watch, and one thin silver ring for the mix",
+    "shoes": "Black leather square-toe ballet flats (black loafers also work). No heels.",
+    "hair": "Low twisted chignon at the nape with a soft centre part and a few face-framing waves pulled loose, secured with a small tortoiseshell claw or pins",
+    "note": "A dry, mild Monday with a 7-degree swing only needs one good knit: taupe-grey plus black wide trousers is quietly polished for the office, the scarf handles the cool morning without a coat, and the gold jewelry warms up the grey. Very different from the weekend's all-cream and navy-denim looks.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-26/suzy-1.jpg",
+        "caption": "Taupe-grey textured knit sweater + black leather shoulder bag + long loose hair, morning walk on a Florence street (Instagram, Oct 2026, via X fan repost) — taupe-grey knit + black bag half of today's look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-26/suzy-2.jpg",
+        "caption": "Same-trip taupe knit with a dark scarf and dark bottoms, browsing a Florence bookstore (Instagram, Oct 2026, via X fan repost) — soft grey knit + dark scarf for a cool morning"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-26/hyojin-1.jpg",
+        "caption": "Cream cropped knit layered over a longer white tee + black wide-leg trousers, film event (Instagram, Dec 2025, via Naver blog) — knit-with-white-tee-peeking + black wide trousers formula"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "weekday": "Sunday",
     "weather": {
