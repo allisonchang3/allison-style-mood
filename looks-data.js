@@ -1,36 +1,63 @@
 window.ALLISON_LOOKS = [
-{
-  "date": "2026-10-26",
-  "weekday": "Monday",
-  "weather": {
-    "summary": "Mostly clear late-October Monday in Seoul: about 14°C on the morning commute, warming to around 21°C by mid-afternoon, then back to about 17°C by 7pm. Dry (rain chance tops out near 25% mid-afternoon, no measurable rain) and calm, with only a light breeze.",
-    "temp": "14–21°C",
-    "rain": "Dry; no umbrella needed"
+  {
+    "date": "2026-10-27",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear, crisp late-October Tuesday in Seoul: about 9°C on the morning commute, warming to around 15–16°C in the early afternoon, then dropping back to about 8°C by 7–8pm. Completely dry (0% rain chance) with a light breeze up to about 14 km/h.",
+      "temp": "9–16°C (low ~5°C overnight)",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Tuesday office / smart casual",
+    "clothes": "A crisp white cotton poplin shirt (top button open, neatly tucked) under a relaxed navy wool blazer, with high-waisted ivory wool-blend wide-leg trousers that skim the floor. For the 9°C morning and chilly evening, drape a thin dusty-blue fine-gauge crewneck knit over your shoulders (or pull it on under the blazer if you run cold). Structured cognac leather shoulder bag.",
+    "jewelry": "Silver-led after yesterday's gold: small silver hoops, a thin silver chain at the open collar, slim gold-and-steel watch, and one thin gold ring for the mix",
+    "shoes": "Clean white leather low-top sneakers (swap for black leather loafers if the office is dressier). No heels.",
+    "hair": "Half-up: the top section loosely twisted back and held with a small black claw clip, the rest left in soft loose waves with a gentle side part",
+    "note": "A dry, cool day with a 7-degree swing suits real tailoring: the navy blazer keeps you warm enough without a coat, the ivory wide trousers keep it fresh and modern rather than stiff, and the dusty-blue knit adds a soft accent plus an extra layer for the 8°C walk home. Quite different from yesterday's taupe-knit-and-black-trousers look and the weekend's cream and navy-denim outfits.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-27/suzy-1.jpg",
+        "caption": "Relaxed navy blazer over a navy top + flowing white wide-leg trousers + long loose hair, leaving Hôtel Lutetia during Paris Fashion Week (Celine PFW, Mar 2026, via X fan repost) — navy blazer + ivory wide trousers formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-27/suzy-2.jpg",
+        "caption": "Oversized navy-charcoal tailored jacket over a crisp white shirt (with tie) + matching wide trousers, slim watch and silver hoops, long hair down (Longines event, Seoul, Mar 2026, via Topstar News / X) — white shirt under navy tailoring + silver hoops half"
+      }
+    ]
   },
-  "occasion": "Monday office / smart casual",
-  "clothes": "A soft taupe-grey textured crewneck knit, relaxed but not oversized, with the hem of a white tee just showing at the neckline and waist, worn with high-waisted black wool wide-leg trousers (front half-tuck so the waist still reads). Loop a slim black wool scarf for the 14°C commute and drop it in your bag by lunch. Structured black leather shoulder bag.",
-  "jewelry": "Gold-led to switch from yesterday's silver: small gold knot studs, thin gold chain, slim gold watch, and one thin silver ring for the mix",
-  "shoes": "Black leather square-toe ballet flats (black loafers also work). No heels.",
-  "hair": "Low twisted chignon at the nape with a soft centre part and a few face-framing waves pulled loose, secured with a small tortoiseshell claw or pins",
-  "note": "A dry, mild Monday with a 7-degree swing only needs one good knit: taupe-grey plus black wide trousers is quietly polished for the office, the scarf handles the cool morning without a coat, and the gold jewelry warms up the grey. Very different from the weekend's all-cream and navy-denim looks.",
-  "celebrityRefs": [
-    {
-      "name": "Suzy",
-      "src": "images/2026-10-26/suzy-1.jpg",
-      "caption": "Taupe-grey textured knit sweater + black leather shoulder bag + long loose hair, morning walk on a Florence street (Instagram, Oct 2026, via X fan repost) — taupe-grey knit + black bag half of today's look"
+  {
+    "date": "2026-10-26",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Mostly clear late-October Monday in Seoul: about 14°C on the morning commute, warming to around 21°C by mid-afternoon, then back to about 17°C by 7pm. Dry (rain chance tops out near 25% mid-afternoon, no measurable rain) and calm, with only a light breeze.",
+      "temp": "14–21°C",
+      "rain": "Dry; no umbrella needed"
     },
-    {
-      "name": "Suzy",
-      "src": "images/2026-10-26/suzy-2.jpg",
-      "caption": "Same-trip taupe knit with a dark scarf and dark bottoms, browsing a Florence bookstore (Instagram, Oct 2026, via X fan repost) — soft grey knit + dark scarf for a cool morning"
-    },
-    {
-      "name": "Hyojin Kong",
-      "src": "images/2026-10-26/hyojin-1.jpg",
-      "caption": "Cream cropped knit layered over a longer white tee + black wide-leg trousers, film event (Instagram, Dec 2025, via Naver blog) — knit-with-white-tee-peeking + black wide trousers formula"
-    }
-  ]
-},
+    "occasion": "Monday office / smart casual",
+    "clothes": "A soft taupe-grey textured crewneck knit, relaxed but not oversized, with the hem of a white tee just showing at the neckline and waist, worn with high-waisted black wool wide-leg trousers (front half-tuck so the waist still reads). Loop a slim black wool scarf for the 14°C commute and drop it in your bag by lunch. Structured black leather shoulder bag.",
+    "jewelry": "Gold-led to switch from yesterday's silver: small gold knot studs, thin gold chain, slim gold watch, and one thin silver ring for the mix",
+    "shoes": "Black leather square-toe ballet flats (black loafers also work). No heels.",
+    "hair": "Low twisted chignon at the nape with a soft centre part and a few face-framing waves pulled loose, secured with a small tortoiseshell claw or pins",
+    "note": "A dry, mild Monday with a 7-degree swing only needs one good knit: taupe-grey plus black wide trousers is quietly polished for the office, the scarf handles the cool morning without a coat, and the gold jewelry warms up the grey. Very different from the weekend's all-cream and navy-denim looks.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-26/suzy-1.jpg",
+        "caption": "Taupe-grey textured knit sweater + black leather shoulder bag + long loose hair, morning walk on a Florence street (Instagram, Oct 2026, via X fan repost) — taupe-grey knit + black bag half of today's look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-26/suzy-2.jpg",
+        "caption": "Same-trip taupe knit with a dark scarf and dark bottoms, browsing a Florence bookstore (Instagram, Oct 2026, via X fan repost) — soft grey knit + dark scarf for a cool morning"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-26/hyojin-1.jpg",
+        "caption": "Cream cropped knit layered over a longer white tee + black wide-leg trousers, film event (Instagram, Dec 2025, via Naver blog) — knit-with-white-tee-peeking + black wide trousers formula"
+      }
+    ]
+  },
   {
     "date": "2026-10-25",
     "weekday": "Sunday",

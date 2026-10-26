@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-27",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear, crisp late-October Tuesday in Seoul: about 9°C on the morning commute, warming to around 15–16°C in the early afternoon, then dropping back to about 8°C by 7–8pm. Completely dry (0% rain chance) with a light breeze up to about 14 km/h.",
+      "temp": "9–16°C (low ~5°C overnight)",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Tuesday office / smart casual",
+    "clothes": "A crisp white cotton poplin shirt (top button open, neatly tucked) under a relaxed navy wool blazer, with high-waisted ivory wool-blend wide-leg trousers that skim the floor. For the 9°C morning and chilly evening, drape a thin dusty-blue fine-gauge crewneck knit over your shoulders (or pull it on under the blazer if you run cold). Structured cognac leather shoulder bag.",
+    "jewelry": "Silver-led after yesterday's gold: small silver hoops, a thin silver chain at the open collar, slim gold-and-steel watch, and one thin gold ring for the mix",
+    "shoes": "Clean white leather low-top sneakers (swap for black leather loafers if the office is dressier). No heels.",
+    "hair": "Half-up: the top section loosely twisted back and held with a small black claw clip, the rest left in soft loose waves with a gentle side part",
+    "note": "A dry, cool day with a 7-degree swing suits real tailoring: the navy blazer keeps you warm enough without a coat, the ivory wide trousers keep it fresh and modern rather than stiff, and the dusty-blue knit adds a soft accent plus an extra layer for the 8°C walk home. Quite different from yesterday's taupe-knit-and-black-trousers look and the weekend's cream and navy-denim outfits.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-27/suzy-1.jpg",
+        "caption": "Relaxed navy blazer over a navy top + flowing white wide-leg trousers + long loose hair, leaving Hôtel Lutetia during Paris Fashion Week (Celine PFW, Mar 2026, via X fan repost) — navy blazer + ivory wide trousers formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-27/suzy-2.jpg",
+        "caption": "Oversized navy-charcoal tailored jacket over a crisp white shirt (with tie) + matching wide trousers, slim watch and silver hoops, long hair down (Longines event, Seoul, Mar 2026, via Topstar News / X) — white shirt under navy tailoring + silver hoops half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "weekday": "Monday",
     "weather": {
