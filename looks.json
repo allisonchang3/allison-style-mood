@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-28",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Clear, cold, bright Wednesday in Seoul, the chilliest morning so far this autumn: about 2°C at 7–8am, warming to around 11°C by mid-afternoon, then back to about 7–8°C by 8–9pm. Completely dry (0% rain chance) with only a light breeze up to about 9 km/h.",
+      "temp": "2–11°C",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Wednesday office / smart casual",
+    "clothes": "A deep plum fine-gauge merino turtleneck tucked into high-waisted dark-indigo straight jeans with a thin black leather belt. Over it, a long oatmeal-cream wool coat worn open (button it for the 2°C commute), plus a soft grey-lavender wool scarf looped once at the neck. Black leather half-moon shoulder bag.",
+    "jewelry": "Gold-led after yesterday's silver: small gold knot studs, a slim gold chain worn over the turtleneck, slim gold watch, and one thin silver ring for the mix",
+    "shoes": "Black leather penny loafers with thin grey socks for warmth (white leather sneakers if your day is relaxed). No heels.",
+    "hair": "Long loose waves brushed out with a deep side part, one side tucked behind the ear and held with a slim tortoiseshell barrette; tuck the ends into the coat collar on the cold walk in",
+    "note": "The first properly cold morning calls for a real coat, but the afternoon only reaches 11°C, so a fine turtleneck plus an open wool coat is the right weight without being bulky. Plum is a quiet, seasonal accent that still reads polished at the office, and the lavender-grey scarf softens it. Different from this week's blazer, taupe-knit and cream looks.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-28/suzy-1.jpg",
+        "caption": "Deep plum turtleneck + blue straight jeans with a gold chain belt, long loose hair, laughing in the Celine workshop in Radda in Chianti, Tuscany (ellekorea Instagram, Oct 2026, via X fan repost) — plum turtleneck + denim + gold-at-the-waist formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-28/suzy-2.jpg",
+        "caption": "Same plum turtleneck tucked into jeans, long waves down, at a leather-cutting table (Celine production visit, ellekorea Instagram, Oct 2026, via X fan repost) — tucked turtleneck proportion and long-hair half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-28/hyojin-1.jpg",
+        "caption": "Oversized cream coat worn open over a knit + dark jeans + purple silk scarf at the neck + big black leather half-moon shoulder bag, hair pulled back, New York street (Instagram, fall 2026, via Daum / Shushu's Style Log) — cream coat + soft-purple scarf + black shoulder bag half"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "weekday": "Tuesday",
     "weather": {
