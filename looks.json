@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-30",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Sunny, dry Friday in Seoul: a crisp ~7°C at 7–8am, warming fast to about 18°C by 2–3pm, and staying mild around 14°C into the evening. 0–2% rain chance all day (a slight chance only after 11pm), with a light breeze up to about 10 km/h in the afternoon.",
+      "temp": "7–18°C",
+      "rain": "Dry; no umbrella needed"
+    },
+    "occasion": "Friday office-to-dinner / smart casual",
+    "clothes": "An ivory fine-gauge crewneck knit tucked into a taupe satin bias-cut midi-to-long skirt (fluid, not clingy). Over it, a relaxed black leather jacket for the 7°C commute that you can drop over your chair by lunch. Structured black leather top-handle bag.",
+    "jewelry": "Gold-led and a little dressier for Friday: two thin layered gold chains (one with a tiny pendant), small gold drop or knot earrings, slim gold watch, plus a couple of thin silver rings stacked for the mix",
+    "shoes": "Black leather almond-toe Mary Jane flats (black penny loafers work too; clean white leather sneakers if dinner is casual). No heels.",
+    "hair": "Sleek mid-height ponytail with a centre part, ends left in their natural waves, two thin face-framing pieces loose; a slim black elastic wrapped with a strand of hair",
+    "note": "First skirt day in a week of trousers and jeans. The sharp 7°C start wants a real jacket, but 18°C by afternoon means a fine knit is enough underneath, and the leather jacket gives the soft ivory-and-taupe skirt a modern Friday edge for dinner. Different from this week's plum turtleneck, navy blazer and taupe-knit looks.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-30/suzy-1.jpg",
+        "caption": "Tone-on-tone ivory knit with a waist tie + flowing taupe silk long skirt, long waves down, on a studio shoot (via X fan account, Oct 2025) — the core ivory knit + taupe silk skirt formula"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-30/suzy-2.jpg",
+        "caption": "Black leather jacket + long black skirt + structured black top-handle bag, hair half-tied, stepping out of a car (Daily Fashion News, via X fan repost, Dec 2025) — leather jacket over a long skirt + black bag half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-30/hyojin-1.jpg",
+        "caption": "Black tailored jacket over a cream quilted midi skirt + two layered gold necklaces + gold watch + stacked rings (Elle Korea, 2019, via X fan repost) — dark jacket over a cream skirt + layered gold jewelry half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-30/hyojin-2.jpg",
+        "caption": "Ivory top + sleek pulled-back ponytail with a centre part + delicate jewelry (Harper's Bazaar Korea, via X fan repost) — sleek ponytail hair half of today's look"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "weekday": "Wednesday",
     "weather": {
