@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-10-31",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Overcast and mild-cool all day, cooler again after dark",
+      "temp": "7–13°C (about 10°C in the morning, 13°C mid-afternoon, 8°C by 9pm)",
+      "rain": "Up to ~47% chance of a light drizzle but ~0 mm forecast; light breeze — carry a compact umbrella"
+    },
+    "occasion": "Saturday weekend casual — errands, café, walk",
+    "clothes": "Pale heather-grey V-neck fine knit over a crisp white shirt with the collar out (or an oatmeal-cream crewneck), tucked into a muted taupe-brown check pleated midi skirt; camel diamond-quilted jacket on top (a camel wool car coat works too), plus a compact umbrella",
+    "jewelry": "Gold-led: small gold huggies, a thin gold chain sitting at the V, slim gold watch, and one thin silver ring",
+    "shoes": "Dark-brown penny loafers with grey (or brown) ribbed socks",
+    "hair": "Low loose braid with a few face-framing waves and a small black velvet scrunchie — weekend-easy and drizzle-proof",
+    "note": "Quietly preppy weekend layers: grey knit + white collar, camel quilting and a soft check skirt, finished with socks and loafers. Bag: dark-brown leather shoulder or crossbody. Distinct from this week's jeans, trousers and satin-skirt looks.",
+    "celebrityRefs": [
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-31/hyojin-1.jpg",
+        "caption": "Camel diamond-quilted coat over a beige knit + brown check pleated skirt + brown loafers (Burberry quilting campaign, Fashionn via Daum, Oct 2024) — closest full camel-quilt + check-skirt formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-31/hyojin-2.jpg",
+        "caption": "Same camel quilted coat and check skirt by the Han River with a black bag (Burberry quilting campaign, Fashionn, Oct 2024) — how the outer works for a relaxed outdoor weekend"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-10-31/suzy-1.jpg",
+        "caption": "Pale grey V-neck knit layered over a white collared shirt + thin gold chain + long waves (And You knit, Urban Zakapa MV behind-the-scenes, Nov 2025, via StyleOf_Suzy on X) — grey knit + white collar top half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-10-31/hyojin-3.jpg",
+        "caption": "Brown pleated mini with an olive knit + brown ribbed socks and loafers (Instagram, via Harper's Bazaar Korea, Aug 2026) — pleats + socks-and-loafers finish"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "weekday": "Friday",
     "weather": {
