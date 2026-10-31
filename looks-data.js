@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-01",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Rainy and chilly almost all day, steadiest from late morning through midday, with showers lingering into the evening",
+      "temp": "6–10°C (about 6°C at 8am, 10°C mid-afternoon, 9°C by 8pm)",
+      "rain": "Near-certain rain, about 8 mm total; light wind — full umbrella and shoes that can handle puddles"
+    },
+    "occasion": "Sunday weekend — slow brunch, café or a gallery, maybe an early dinner",
+    "clothes": "A navy fine-gauge knit midi dress with long sleeves (fitted but not tight, button front or a neat crew neck) over sheer black or navy tights, under a long cream-stone trench buttoned and belted against the rain; a soft dusty-blue or ivory wool scarf for warmth, a structured black shoulder bag with gold hardware, and a sturdy umbrella",
+    "jewelry": "Gold-led: small gold dome studs, a slim gold watch, one thin gold bangle, and a single silver ring for a quiet mix",
+    "shoes": "Black leather lug-sole penny loafers (they cope with wet pavements); black leather sneakers work as the easy alternative",
+    "hair": "Low soft twisted bun with a tortoiseshell claw clip and a couple of loose face-framing waves, so the humidity can't frizz the lengths",
+    "note": "A cosy, polished rain-day uniform: one navy knit dress does all the work, the cream trench keeps it light against grey skies, and gold touches finish it. New for the week after jeans, trousers and skirts. Swap the trench for a grey long wool coat if the rain stops by evening.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-01/suzy-1.jpg",
+        "caption": "Navy knit-and-wool dress with big cuffs and gold buttons, long loose waves, dinner in Florence (Instagram, Oct 2026, via Marie Claire Korea) — navy knit dress for a polished weekend meal"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-01/suzy-2.jpg",
+        "caption": "Same Florence dinner, navy knit dress and soft waves; Marie Claire notes she wore it under a grey long coat (Instagram, Oct 2026, via Marie Claire Korea) — the dress-plus-long-coat formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-01/hyojin-1.jpg",
+        "caption": "Grey knit dress with soft waves down and small earrings, film promo interview (Lotte Entertainment, Sep 2026, via Star News) — knit dress as a one-piece outfit"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-01/hyojin-2.jpg",
+        "caption": "Long cream trench over dark denim + black half-moon shoulder bag, New York street (Instagram, Oct 2026, via Fashion Hook on Daum) — long cream trench layer for the rain"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "weekday": "Saturday",
     "weather": {
