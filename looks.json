@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-02",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Clear and sunny all day, light breeze",
+      "temp": "8°C at 8am, high 13°C mid-afternoon, back to 9°C by 8pm",
+      "rain": "Dry (0 mm)"
+    },
+    "occasion": "Office / smart casual",
+    "clothes": "Grey glen-check long wool coat worn open over a soft cream crewneck knit, tucked lightly into high-waisted charcoal wool straight trousers. A tonal grey-and-cream base that looks polished for Monday without feeling stiff.",
+    "jewelry": "Silver-led: small silver hoops, a thin silver chain over the knit, a steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Black leather loafers with a slim gold horsebit (black chelsea boots work too if you want Hyojin's exact feel).",
+    "hair": "Long soft waves down with a centre part, one side tucked behind the ear to show the hoop.",
+    "note": "Bag: a structured black leather shoulder or clutch-style bag, like Hyojin's. The coat stays on until midday, then the cream knit carries the afternoon at 13°C.",
+    "celebrityRefs": [
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-02/hyojin-1.jpg",
+        "caption": "Hyojin Kong for Tory Burch (Oct 2026) — grey glen-check long coat, black boots, structured black bag"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-02/hyojin-2.jpg",
+        "caption": "Same Tory Burch look, closer — check coat proportions and the black bag carried under the arm"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-02/suzy-1.jpg",
+        "caption": "Suzy (Nov 2026) — soft cream crewneck knit, long loose hair, slim watch"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "weekday": "Sunday",
     "weather": {
