@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
 {
+  "date": "2026-11-03",
+  "weekday": "Tuesday",
+  "weather": {
+    "summary": "Clear-to-partly-cloudy and calm; a cold start with a big warm-up by mid-afternoon",
+    "temp": "About 6°C at 8am, rising to a 16°C high around 3–4pm, back to about 12°C by 8pm",
+    "rain": "Dry (0 mm forecast); rain chance peaks at only ~25% mid-afternoon; light wind (max ~6 km/h)"
+  },
+  "occasion": "Tuesday office / smart casual",
+  "clothes": "A knee-length camel double-breasted wool coat (buttoned for the 6°C commute, worn open later) over a soft heather-grey fine-knit zip cardigan zipped halfway, with a crisp white crew tee just showing at the neckline. Tuck it loosely into a clean mid-to-dark indigo denim A-line midi skirt (no rips, hits mid-calf) with a thin brown leather belt. Camel, grey and denim, with no black anywhere: warmer and more casual than Monday's grey check, but still office-ready.",
+  "jewelry": "Gold-led to suit the camel: small gold hoops, a thin gold chain over the white tee, a gold watch on a brown leather strap, and one thin silver ring to mix metals.",
+  "shoes": "Brown suede ballet flats or soft penny loafers worn with grey ribbed wool socks, like Suzy. The socks keep your ankles warm in the cold morning and tie back to the grey knit.",
+  "hair": "Long soft waves down with a deep side part, the front section on the heavy side twisted back and held with a small gold clip so it stays off your face all day.",
+  "note": "Bag: a structured dark-brown or cognac leather shoulder bag. Keep the coat buttoned until about 11am. After lunch, at 14–16°C, the zip knit and tee are enough, so carry the coat over your arm. A compact umbrella is optional; the afternoon rain chance is only about 25%.",
+  "celebrityRefs": [
+    {
+      "name": "Suzy",
+      "src": "images/2026-11-03/suzy-1.jpg",
+      "caption": "Camel double-breasted wool coat worn open over a grey zip knit, dark straight denim and brown suede shoes (GUESS Winter 2023 campaign, via Fashionn, Oct 2023): the camel coat + grey knit + denim core"
+    },
+    {
+      "name": "Suzy",
+      "src": "images/2026-11-03/suzy-2.jpg",
+      "caption": "Dark denim skirt with grey ribbed socks and brown ballet flats, under a navy wool jacket (same GUESS Winter 2023 campaign, via Fashionn): the denim skirt + grey socks + brown flats half"
+    },
+    {
+      "name": "Hyojin Kong",
+      "src": "images/2026-11-03/hyojin-1.jpg",
+      "caption": "Relaxed blazer over a white tee, mid-wash denim with a brown belt, black loafers with white socks and oval glasses: her office look (Instagram @rovvxhyo, via Cosmopolitan Korea, Jan 2026). Shows denim for the office with a white tee peeking out and socks with loafers"
+    }
+  ]
+},
+{
   "date": "2026-11-02",
   "weekday": "Monday",
   "weather": {
