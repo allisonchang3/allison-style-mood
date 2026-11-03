@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-04",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Sunny to partly cloudy and calm. A cold start, then a big warm-up in the afternoon",
+      "temp": "About 7°C at 8am (feels like 5–6°C), around 14°C by noon, a 17°C high around 2–4pm, back to about 12°C by 8pm",
+      "rain": "Dry (0 mm, 0% rain chance all day); light wind (max ~5 km/h)"
+    },
+    "occasion": "Wednesday office / smart casual",
+    "clothes": "A long ivory sleeveless knit dress (brushed wool or soft rib, deep V or scoop neck, straight column cut that skims the body without clinging, mid-calf to ankle length) layered over a slim black fine-merino turtleneck, so the black sleeves and high neck frame the cream. Over it, a relaxed single-breasted black wool blazer worn open: on for the 7°C commute, then over your chair or arm once it's 14–17°C. It's a clean black-and-ivory column, quite different from this week's coat-and-trouser and denim looks: no long coat, no trousers, no camel, no check.",
+    "jewelry": "Gold-led: small gold hoops (tuck one side of your hair back to show one), a fine long gold pendant chain over the black turtleneck sitting inside the V of the dress, a slim gold watch on a black strap, and a couple of thin gold rings like Suzy, plus one thin silver ring to mix metals.",
+    "shoes": "Black leather lace-up derby flats (or plain black ballet flats) with thin black socks. Black at the hem matches the black turtleneck and blazer, so the ivory dress reads as one long line. No heels.",
+    "hair": "Long soft waves with a centre part, half-up: twist the top section loosely back and tie it at the crown with a slim black velvet ribbon, and leave the rest down. Tuck one side behind your ear to show the gold hoop.",
+    "note": "Bag: a structured black leather shoulder or top-handle bag. Keep the blazer on until about 10–11am. By mid-afternoon (17°C) the turtleneck under the dress is enough on its own. It's dry all day, so no umbrella. Seated at a desk, a straight or slightly A-line knit dress is more comfortable than a narrow one. If the dress is very long, shorten it to mid-calf so the black socks and derbies show.",
+    "celebrityRefs": [
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-04/hyojin-1.jpg",
+        "caption": "Long ivory sleeveless dress over a black turtleneck, long loose hair, on stage at the London Korean Film Festival opening gala for The Journey to Gyeong-ju, BFI Southbank (2 Nov 2026, photo by @d4viddrae on X). This is the exact ivory-over-black column for today"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-04/hyojin-2.jpg",
+        "caption": "Same LKFF Q&A night, closer up (2 Nov 2026, @d4viddrae on X): the high black turtleneck neckline inside the soft cream V, with a gold ring and waves tucked back"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-04/suzy-1.jpg",
+        "caption": "Black turtleneck under a relaxed black wool jacket with a slim belt, a gold ring and long straight hair (Instagram @skuukzky, via Harper's Bazaar Korea, Sep 2026). Use it for the black base and the open black blazer"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-04/suzy-2.jpg",
+        "caption": "Long black wool coat over a long ivory skirt with black boots, on a snowy trip abroad (Instagram @skuukzky, via Cosmopolitan Korea, Feb 2025). Shows black over a long ivory hem; skip the cobalt scarf, which is her pop of colour and not part of today's palette"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "weekday": "Tuesday",
     "weather": {
