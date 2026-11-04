@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-05",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Grey and damp in the morning with a chance of light drizzle, drying out and turning mild by afternoon",
+      "temp": "About 9°C at 8am, around 12°C by noon, a 16°C high around 3–4pm, still about 13°C in the evening",
+      "rain": "Light drizzle possible about 6–10am (around 40% chance, ~2 mm for the day), dry from late morning; rain may return after 10pm. Light breeze (max ~11 km/h)"
+    },
+    "occasion": "Thursday office / relaxed smart casual",
+    "clothes": "A short olive-khaki utility or field jacket (cotton with a water-resistant finish, or a slim lightly padded one) worn over a slim black fine-merino crewneck knit, with high-waisted mid-wash blue straight or very slightly flared jeans. The jacket is boxy and hip-length so the long straight jeans keep the line clean; zip it for the damp 9°C commute and take it off once it's 14–16°C. It's a relaxed denim-and-utility day after this week's coats, trousers, and the long ivory dress: no long coat, no skirt, no cream.",
+    "jewelry": "Silver-led for a change from yesterday's gold: small silver hoops, a thin silver chain just above the black neckline, a steel watch, and one thin gold ring to mix metals. Tortoiseshell sunglasses if it brightens after lunch.",
+    "shoes": "Black leather ballet flats with a rubber sole (or slim black loafers), with fine dusty-blue socks as a small pop of colour, the way Hyojin wears red socks with black loafers and blue jeans.",
+    "hair": "Long waves down with a centre part, pushed back with a slim black or tortoiseshell headband so they stay neat in the damp air; leave a few soft pieces at the ears.",
+    "note": "Bag: a cognac or tan leather crossbody, worn across the body like Hyojin's. Take a compact umbrella for the morning drizzle; by afternoon it's mild and dry and the black knit and jeans are enough on their own. If it's raining properly when you leave, swap the flats for black loafers with a lug sole.",
+    "celebrityRefs": [
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-05/hyojin-1.jpg",
+        "caption": "Khaki-ochre work jacket over a grey collar, blue straight jeans, black loafers with red socks, at a London café (depound gold button work jacket, Instagram Sep 2024, via an X fan styling account) — the utility jacket + denim + socks-and-flats formula"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-05/hyojin-2.jpg",
+        "caption": "Same London street day from behind: hip-length jacket, long dark flared jeans, a crossbody bag and flat shoes — how the short jacket keeps the denim line long"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-05/suzy-1.jpg",
+        "caption": "Olive short padded jacket over a black crewneck with grey trousers, long loose waves (K2 Fall/Winter 2026 campaign, via X fan repost, Oct 2026) — the olive-over-black colour story"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-05/suzy-2.jpg",
+        "caption": "Khaki jacket over a white tee, glasses and a blue cap in a mirror selfie (fan-collected Suzy photo, posted on X Nov 2026) — the casual khaki-jacket mood for a relaxed day"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "weekday": "Wednesday",
     "weather": {
