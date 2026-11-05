@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-06",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Clear and cold all day after a possible very early-dawn sprinkle; strong wind makes it feel colder than the thermometer",
+      "temp": "About 3°C at 8am (feels near 0°C with wind), only rising to a 9°C high mid-afternoon, back near 5–6°C by evening",
+      "rain": "Dry for the commute and the rest of the day (0% daytime rain chance after any dawn spit); windy — scarf and a real coat matter more than an umbrella"
+    },
+    "occasion": "Friday office / smart casual — cold clear day, maybe a quiet after-work drink",
+    "clothes": "A long charcoal-black wool coat (knee-length or just below, buttoned for the 3°C windy commute) over a slim black fine-merino turtleneck, with high-waisted black wool straight trousers. Wrap a soft dusty-blue wool scarf once around the neck — Suzy's winter signature and the only soft colour against the black. Optional: a cream sleeveless knit vest over the turtleneck under the coat for the office, the way Hyojin layered cream over black at LKFF. It's a true winter-coat day after yesterday's short utility jacket: no olive, no jeans, no ivory dress, no camel.",
+    "jewelry": "Gold-led after yesterday's silver: small gold hoops, a thin gold chain sitting just above the turtleneck (visible when the scarf loosens indoors), a slim gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Black leather penny loafers with thin grey or black socks. Warm enough for 3°C once the coat and scarf are on; swap to lug-sole black loafers only if the wind feels biting on the walk.",
+    "hair": "Long soft waves with a centre part, left down so they sit under the scarf; tuck one side behind your ear once you're indoors so the gold hoop shows. A slim tortoiseshell barrette at the temple keeps the wind-side neat.",
+    "note": "Bag: a structured black leather shoulder bag. Keep the coat buttoned and the dusty-blue scarf on until about noon — the high is only 9°C and the wind keeps the feel colder. Indoors, drop the coat and loosen the scarf; the black turtleneck and trousers carry the office. Dry all day, so no umbrella. If you stay out after work, keep the coat and scarf; 5–6°C evenings feel sharp.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-06/suzy-1.jpg",
+        "caption": "Long black coat with her signature dusty-blue winter scarf in a snowy cinematic teaser (ANUA / fan posts on X, 5 Nov 2026) — the exact black-coat + blue-scarf formula for a cold clear day"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-06/suzy-2.jpg",
+        "caption": "Same teaser from farther back: oversized black coat, long blue scarf ends, footprints in the white ground (X fan repost, 5 Nov 2026) — how the scarf reads as the only colour against black"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-06/hyojin-1.jpg",
+        "caption": "Black turtleneck under a cream knit vest with cream trousers and thin glasses, seated at the London Korean Film Festival Q&A (2 Nov 2026, @d4viddrae on X) — the black turtleneck base and optional cream layer for the office"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-06/hyojin-2.jpg",
+        "caption": "Same LKFF panel, hand in hair: cream sleeveless knit over black turtleneck, soft waves and a gold ring (2 Nov 2026, @d4viddrae) — cream-over-black layering under a winter coat"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "weekday": "Thursday",
     "weather": {
