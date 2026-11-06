@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-07",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "입동 cold snap — clear and dry all day, strongest autumn chill so far; wind makes the morning feel colder than the thermometer",
+      "temp": "About −1°C at 8am (feels near −5°C with wind), rising only to a 7–9°C high mid-afternoon, back near freezing by evening",
+      "rain": "No rain (clear / mainly clear); windy and dry — a real wool coat and scarf matter more than an umbrella"
+    },
+    "occasion": "Saturday weekend casual — café, errands, a walk; stay warm for 입동",
+    "clothes": "A butter-cream wool balmacaan (knee-length, buttoned against the wind) over a thick oatmeal cable turtleneck, with dark-indigo straight jeans. Soft taupe wool scarf tucked into the collar — warmth without yesterday's dusty-blue. Optional for the −1°C morning: a camel shearling-lined vest under the coat (peel once you're indoors), the way Suzy layered camel cable + shearling. It's a true coat day after yesterday's all-black charcoal: butter cream + oatmeal + denim for the weekend, no black coat, no olive utility, no ivory dress.",
+    "jewelry": "Silver-led after yesterday's gold: small silver hoops, a thin silver chain sitting just above the turtleneck (visible when the scarf loosens indoors), a slim steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Brown leather penny loafers with thin grey socks. Warm enough once the coat and scarf are on; swap to lug-sole brown loafers only if the wind feels biting on the walk.",
+    "hair": "Long soft waves in a low loose ponytail with a taupe velvet scrunchie — tidy for the wind, soft for weekend. Leave a few face pieces out so it doesn't look office-tight.",
+    "note": "Bag: a cognac or dark-brown structured shoulder bag. Keep the coat buttoned and the taupe scarf on until you're indoors — this is the coldest morning of the season so far. Live site: https://allisonchang3.github.io/allison-style-mood/",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-07/suzy-1.jpg",
+        "caption": "Camel cable-knit sweater under a camel shearling-lined hooded vest with taupe denim — soft winter neutrals (GUESS Winter 2024 campaign)"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-07/suzy-2.jpg",
+        "caption": "Chocolate-brown suede aviator jacket with a taupe faux-fur collar over dark denim — warm textured outer for a clear cold day (GUESS Winter 2026 campaign)"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-07/hyojin-1.jpg",
+        "caption": "Butter-cream balmacaan half coat over an oatmeal cable turtleneck and green check mini dress on a stair (Depound, Instagram Nov 2024)"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-07/hyojin-2.jpg",
+        "caption": "Oversized oatmeal-taupe turtleneck knit outdoors, soft waves down — the cozy weekend knit half of today's formula (When the Stars Gossip still, Feb 2025)"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "weekday": "Friday",
     "weather": {
