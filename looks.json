@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-08",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Cloudy and chilly all day; light drizzle possible midday, steadier rain from late afternoon into the evening",
+      "temp": "About 3–4°C at 8am, high only around 7–8°C mid-afternoon, back near 5–6°C after dark",
+      "rain": "Expect ~5 mm total — rain concentrates after about 3–6pm through late evening; bring an umbrella for anything after brunch"
+    },
+    "occasion": "Sunday weekend casual — slow brunch or café, a short errand walk; umbrella ready for late-afternoon rain",
+    "clothes": "A soft heather-grey fine merino turtleneck tucked into high-waisted taupe wool straight trousers. Mid-length charcoal (or deep navy) water-resistant belted coat — buttoned and belted once the afternoon rain starts, worn open for a dry morning café. Soft dusty-lavender wool scarf for the 3°C start. Structured black shoulder bag. Deliberately not yesterday's butter-cream balmacaan + oatmeal cable + indigo jeans, and not last Sunday's navy knit dress + cream trench: grey knit + taupe trousers + charcoal rain coat + lavender scarf for a wet, cold weekend.",
+    "jewelry": "Gold-led after yesterday's silver: small gold hoops, a thin gold chain just above the turtleneck, a slim gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Black lug-sole penny loafers with thin black socks — better grip on wet Seoul sidewalks than smooth soles. Keep a spare pair of dry socks in the bag if you're out past the rain.",
+    "hair": "Soft long waves twisted into a low bun with a black velvet scrunchie — rain-practical, tidy for wind, a few face pieces left out so it still feels weekend-soft. Skip the open ponytail today.",
+    "note": "Pack a compact umbrella before you leave — rain picks up late afternoon. Keep the lavender scarf on until you're indoors; peel the coat once you're settled at brunch. Live site: https://allisonchang3.github.io/allison-style-mood/",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-08/suzy-1.jpg",
+        "caption": "Navy matte belted K2 Eclair coat over a cream ribbed mock-neck knit outdoors — the rain-ready outer + soft knit base for today (K2 campaign, via X)"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-08/suzy-2.jpg",
+        "caption": "Cream belted Eclair coat with charcoal straight trousers and soft waves — clean winter silhouette if you prefer a lighter coat shade (K2 Pearl, via X)"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-08/hyojin-1.jpg",
+        "caption": "Long black coat worn open over a burgundy top and light-wash straight jeans, waving in a cathedral plaza — weekend coat + denim energy for a cool day (Spain IG story, Nov 2026)"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-08/hyojin-2.jpg",
+        "caption": "Dusty-lavender ribbed turtleneck under layered violet and sky-blue scarves — the soft lavender knit/scarf accent for today's chilly start (London travel, Nov 2026)"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "weekday": "Saturday",
     "weather": {
