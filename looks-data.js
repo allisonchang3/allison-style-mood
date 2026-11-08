@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-09",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Partly cloudy, calm and dry after overnight showers clear out before dawn",
+      "temp": "Cold start around 4–5°C at 8am, climbing to about 11°C mid-afternoon, back near 6°C by 8pm",
+      "rain": "Dry through the day — any rain was overnight, so just watch for damp pavements early; light wind (under 8 km/h)"
+    },
+    "occasion": "Monday office / smart casual — a soft, polished start to the week",
+    "clothes": "An ivory fine-knit cardigan buttoned all the way up and worn as a top (a little lace or pointelle trim at the neck if you have it), tucked into dark-indigo straight jeans with a slim brown leather belt. Drape a pale sage crewneck knit over your shoulders and knot it loosely in front — that's the soft colour accent. Long camel single-breasted wool coat over it all for the 4°C morning; it comes off cleanly at the office and the cardigan-plus-sage combo still reads put-together. Structured cognac/tan leather tote. Deliberately not last week's grey glen-check coat + cream crewneck + charcoal trousers, and not yesterday's grey turtleneck + taupe trousers + charcoal rain coat.",
+    "jewelry": "Silver-led after yesterday's gold: small silver huggies, a delicate silver chain with a tiny pendant sitting on the cardigan, a steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Dark-brown suede penny loafers with thin oatmeal socks — dry pavements today, so suede is safe.",
+    "hair": "Long soft waves left down with a deep side part, one side tucked behind the ear to show the huggies. Calm, dry day, so no need to tie it up.",
+    "note": "Coat buttoned and the sage knit pulled snug over the shoulders on the way in; by the afternoon (11°C) you can walk out with the coat open. Live site: https://allisonchang3.github.io/allison-style-mood/",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-09/suzy-1.jpg",
+        "caption": "Cream lace-neckline cardigan buttoned as a top with dark jeans, long waves, mirror selfie (fan repost on X, Nov 2025) — the ivory buttoned-cardigan + dark denim base for today"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-09/suzy-2.jpg",
+        "caption": "Cream fitted cardigan with long flared blue jeans and long loose hair on a clean white set (GUESS, via X fan post Dec 2025) — the fitted-not-tight cardigan + denim proportions"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-09/hyojin-1.jpg",
+        "caption": "Pale sage knit draped over the shoulders of a white long-sleeve top with dark jeans and a thin gold pendant, Spain street (Instagram story, 7 Nov 2026, via X fan repost) — the sage-over-the-shoulders accent"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-09/hyojin-2.jpg",
+        "caption": "Same Spain trip by the sea: the sage knit worn open over a white top with dark straight jeans (Instagram story, 7 Nov 2026, via X fan repost) — how the sage layer reads on its own"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "weekday": "Sunday",
     "weather": {
