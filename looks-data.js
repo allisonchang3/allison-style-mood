@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-10",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear, sunny and calm — a crisp, bright autumn day",
+      "temp": "Very cold start around 1–2°C at 8am, warming to about 10°C mid-afternoon, back near 7–8°C by evening",
+      "rain": "Dry all day (0% chance) with light wind under 7 km/h — no umbrella needed"
+    },
+    "occasion": "Tuesday office / smart casual — polished but soft, a little preppy",
+    "clothes": "An ivory or cream tweed top-layer — a sleeveless tweed shell, tweed vest or a short tweed jacket buttoned up — worn over a crisp white collared shirt so the collar and cuffs peek out. Below, a fitted-waist taupe-grey check (or plain charcoal flannel) pleated midi skirt with sheer black tights. A long navy wool coat on top for the 1°C morning, and a structured black shoulder bag. This is the first skirt look in a while and deliberately different from yesterday's ivory cardigan + dark jeans + camel coat and Sunday's grey turtleneck + taupe trousers.",
+    "jewelry": "Gold-led after yesterday's silver: small pearl or gold studs, a thin gold chain sitting at the shirt collar, a gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Black leather Mary Jane flats (or black loafers if you prefer) with the sheer black tights. Dry pavements all day.",
+    "hair": "Long soft waves with a deep side part, one side tucked behind the ear and held with a slim gold hair clip — keeps the collar and earrings visible.",
+    "note": "Sunny but cold, so keep the coat on for the commute and lose it at the office. The tweed + white collar + pleated skirt reads quietly preppy; if the afternoon gets to 10°C you can carry the coat over your arm.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-10/suzy-1.jpg",
+        "caption": "Ivory tweed sleeveless top and matching skirt with a structured black Celine bag and long waves, full-length at a Celine event (X fan post, 6–7 Nov 2026) — the ivory tweed + black bag combination for today"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-10/suzy-2.jpg",
+        "caption": "Same ivory tweed look seated in the Celine boutique, black shoulder bag on, long soft waves (X fan post, Nov 2026) — how the cream tweed texture reads up close"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-10/hyojin-1.jpg",
+        "caption": "White collared blouse over a pleated check mini skirt with black boots and a red scarf as her twist (Instagram @rovvxhyo, via Harper's Bazaar Korea, Aug 2026) — the white collar + pleated check skirt half; take it to midi length with tights and flats"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "weekday": "Monday",
     "weather": {
