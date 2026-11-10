@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-11",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Mostly clear and calm, a bright mid-November day with a wide temperature swing",
+      "temp": "Cold start around 4°C at 8am, climbing to about 14°C by 2–3pm, still near 11°C at 6–7pm",
+      "rain": "Dry all day (0% chance) with light wind under 7 km/h, so no umbrella needed"
+    },
+    "occasion": "Wednesday office / smart casual: tailored but soft, with one quiet colour accent",
+    "clothes": "A soft dusty-blue fine merino (or cashmere) turtleneck tucked into high-waisted black tailored trousers with a slight flare or straight leg. On top, a long taupe-greige wool coat worn open, and a structured sage/olive top-handle bag as the second soft accent. For the 4°C commute you can add a navy or blue-check wool scarf, then lose it by lunch. This is the first dusty-blue knit in weeks, and it's different from yesterday's ivory tweed + check skirt + navy coat and Monday's ivory cardigan + jeans + camel coat.",
+    "jewelry": "Silver-led after yesterday's gold: small silver hoops, a thin silver chain worn over the turtleneck, a steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Black square-toe leather ballet flats with thin black socks (or black loafers). The pavements stay dry all day.",
+    "hair": "Long soft waves down with a centre part, one side tucked behind the ear so the hoop shows against the blue knit.",
+    "note": "The 10-degree swing means the coat does the heavy lifting: keep it on until about 11am, then carry it or leave it at your desk. The black trousers keep the blue and sage feeling grown-up rather than sweet.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-11/suzy-1.jpg",
+        "caption": "Long taupe-greige wool coat over all-black layers on the ELLE Korea x Celine October 2026 cover ('The Art of Sensing Suzy', via X fan post, Sep 2026) — the long taupe coat over dark tailoring for today"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-11/suzy-2.jpg",
+        "caption": "Black double-breasted jacket with black flared trousers and a small black top-handle bag at Celine Été 2027, Paris Fashion Week (via X fan post, Oct 2026) — the black flared trouser line; swap the heels for flats"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-11/hyojin-1.jpg",
+        "caption": "Pale blue turtleneck under a navy wool overshirt coat with an olive-green top-handle bag and long waves (Acne Studios overshirt coat, via X fan post, Sep 2026) — the dusty-blue turtleneck + sage/olive bag pairing"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-11/hyojin-2.jpg",
+        "caption": "Long navy wool coat with a blue-and-green check wool scarf on a snowy day (Management SOOP Instagram, 15 Sep 2026, via X) — the optional check scarf for the cold morning commute"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "weekday": "Tuesday",
     "weather": {
