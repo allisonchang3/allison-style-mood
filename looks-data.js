@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-12",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "A dry, calm mid-November day: a few clouds in the early morning, then clear and sunny from mid-morning",
+      "temp": "About 6°C at 8am, warming to around 15°C from 2 to 4pm, and still 12–13°C at 6–7pm",
+      "rain": "Dry all day (0% chance) with light wind under 8 km/h, so no umbrella needed"
+    },
+    "occasion": "Thursday office / smart casual: quietly preppy, with one new texture (leather) and deep berry accents",
+    "clothes": "A navy fine-gauge V-neck knit worn over a thin long-sleeve tee with a fine cream-and-brown stripe, so a little stripe shows at the neckline and the hem. Tuck the front lightly into a black leather A-line skirt that falls to the knee or just below, with sheer black tights. On top, a long dark chocolate-brown wool coat worn open, and a soft plum or dusty-lavender wool scarf looped loosely for the 6°C commute. Carry a structured oxblood/burgundy leather tote. This is the first leather skirt and the first brown coat in weeks. It's different from yesterday's blue turtleneck, black trousers and taupe coat, and from Tuesday's ivory tweed, check midi and navy coat.",
+    "jewelry": "Gold-led after yesterday's silver: one long, thin gold pendant chain worn over the V-neck, small gold hoops, a gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Oxblood or black leather penny loafers with the sheer black tights. The pavements stay dry all day.",
+    "hair": "Long soft waves down with a soft side part, the front pieces swept back and one side tucked behind the ear so the gold hoop and long chain show.",
+    "note": "The scarf and coat are only for the cold morning. By lunch it's about 13°C, so the knit and leather skirt are enough indoors and on a sunny walk. Keep the stripe thin and quiet, and let the oxblood bag and plum scarf be the only colour against the navy, brown and black.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-12/suzy-1.jpg",
+        "caption": "Navy cardigan over a white tee with blue jeans and a big oxblood-burgundy leather tote, long loose waves (Instagram @skuukzky, via Cosmopolitan Korea) — the navy-knit + oxblood-bag pairing for today; swap the logo tee for a thin striped one"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-12/suzy-2.jpg",
+        "caption": "Same navy-and-burgundy look seated, burgundy tote held on her lap, long waves down (Instagram @skuukzky, via Cosmopolitan Korea) — how the deep berry bag warms up the navy"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-12/hyojin-1.jpg",
+        "caption": "Navy V-neck knit over a brown-and-cream striped tee with a plum wool scarf and dark jeans, against a brick wall (Instagram, via W Korea, Dec 2025) — the navy V-neck + peeking stripe + plum scarf top half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-12/hyojin-2.jpg",
+        "caption": "White top tucked into a black leather A-line knee-length skirt with a long thin chain pendant and black tights/boots (Instagram, via W Korea, Dec 2025) — the leather skirt + long chain; wear it with loafers instead of tall boots"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "weekday": "Wednesday",
     "weather": {
