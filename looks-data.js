@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-13",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "A grey, overcast morning that breaks into partly cloudy skies from about noon. Dry and very calm all day",
+      "temp": "About 8°C from 7 to 10am, 11°C at noon, up to around 15°C from 3 to 4pm, and still 12–13°C at 6–8pm",
+      "rain": "No rain expected (0 mm, 0% chance through the evening) and almost no wind (under 5 km/h), so no umbrella needed"
+    },
+    "occasion": "Friday office / smart casual that can go straight to dinner: soft and a little dressier, with the first blush accent in weeks",
+    "clothes": "A dove-grey fine-knit cropped cardigan buttoned up and worn as a top, ideally with pearl or small jewelled buttons or a subtle embellished neckline. Wear it with a blush-pink satin midi skirt that falls mid-calf, bias-cut or softly crinkled so it moves and doesn't cling. The cardigan's short length sits right at the skirt's waistband, so no tucking is needed. On top, a long mid-grey wool coat worn open, tonal with the cardigan. Carry a structured ivory/cream leather shoulder bag. This is the first satin skirt and pink-and-grey palette in weeks, and different from yesterday's navy V-neck, black leather skirt and brown coat.",
+    "jewelry": "Silver-led after yesterday's gold: small pearl studs set in silver, a thin silver chain with a tiny pearl drop at the collarbone, a steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Pointed-toe black leather ballet flats (dove-grey suede also works) with sheer nude or taupe tights for the 8°C morning. No heels needed. The flats keep the satin skirt easy for the office. The pavements stay dry all day.",
+    "hair": "Half-up, half-down soft waves: take the top section back loosely with a small silver clip or a thin grey velvet ribbon and leave the lengths down. Pull out a few face-framing pieces at the front.",
+    "note": "Keep the coat on for the grey 8°C commute. From noon it's 11–15°C, so the cardigan and satin skirt are plenty indoors and for a lunch walk. Let the blush skirt be the only colour, with everything else grey, ivory and black. If you go out for Friday dinner, just add a soft lip and swap the steel watch for a slim silver bangle.",
+    "celebrityRefs": [
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-13/hyojin-1.jpg",
+        "caption": "Pale dove-grey cropped cardigan with a jewelled neckline, buttoned as a top, with soft waves and see-through bangs (tvN 'When the Stars Gossip' press conference, Seoul, 18 Dec 2024, via Daum) — the grey buttoned cardigan + sparkle at the neck for today"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-13/hyojin-2.jpg",
+        "caption": "The same grey cropped cardigan over a blush-pink crinkled satin long skirt, full-length (same press conference, Dec 2024, via Newsis on Daum) — the grey + blush satin skirt proportion; swap her red heeled mules for black ballet flats"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-13/suzy-1.jpg",
+        "caption": "Soft blush-pink fine-knit cardigan worn as a top, long loose hair, ballet-studio mirror selfie (Instagram @skuukzky, Apr 2026, via X fan post; Not Your Rose 'Lea' cardigan) — how a whisper of blush knit looks on her; a blush cardigan over a grey skirt is today's reverse option"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "weekday": "Thursday",
     "weather": {
