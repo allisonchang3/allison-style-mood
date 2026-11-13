@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-14",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Grey and mild, with light drizzle on and off from about 8am to noon, then overcast but drying out through the afternoon and evening. Almost no wind",
+      "temp": "About 9–10°C through the morning, 11–12°C from noon to 4pm, and still around 11°C in the evening — mild for mid-November",
+      "rain": "Light drizzle likely all morning (near-certain chance, but only about 1 mm in total), easing after noon. Wind under 5 km/h. Carry a compact umbrella"
+    },
+    "occasion": "Saturday weekend casual: a slow, rainy-morning gallery or museum visit and brunch/café, relaxed but still polished",
+    "clothes": "A soft ecru/cream crewneck knit (or a cream cardigan worn open over a plain white tee, like Suzy) with light-to-mid-wash straight, full-length jeans — lighter denim than this week's dark indigo. Drape a thin navy-and-cream knit (striped or plain) over your shoulders or loosely at the neck for the drizzly morning, the way Hyojin does at the gallery. On top, a tobacco-brown belted trench or car coat worn open — suede-look if it's water-resistant, otherwise brown cotton gabardine for the drizzle. Carry a slouchy olive-khaki or deep-green shoulder bag (leather is the safer pick while it's wet). A new mix for the week: brown + cream + light denim with an olive accent, different from yesterday's grey-and-blush satin and last Saturday's butter-cream coat.",
+    "jewelry": "Gold-led after yesterday's silver: small gold hoops, a thin gold chain under the knit's neckline, a slim gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Slim, low-profile leather sneakers in cream/white with a grey or tan trim — wipe-clean leather copes with damp pavements. If the drizzle is heavier than forecast, swap to black lug-sole loafers. No heels.",
+    "hair": "Waves twisted up into a soft, loose low bun at the nape, held with a tortoiseshell claw clip, with a couple of face-framing pieces left out — it stays neat in the damp air and keeps hair off the draped knit.",
+    "note": "Keep the coat on and the knit draped for the drizzly 9–10°C morning, and keep a compact umbrella in the bag. Indoors at the gallery and once it dries out after noon (11–12°C), the knit and jeans are plenty and the coat can go over your arm. Let the brown coat and olive bag be the only depth; everything else stays cream, ecru and light denim.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-14/suzy-1.jpg",
+        "caption": "Cream knit cardigan open over a white top, light-wash straight jeans and a structured dark-green shoulder bag, long loose hair (Celine, via X fan post, Jul 2025) — the cream knit + light denim + green bag base for today"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-14/hyojin-1.jpg",
+        "caption": "Black tailored jacket and trousers with a cream striped knit draped at the neck and a slouchy khaki suede saddle bag, hair tied back, in a London gallery (Instagram, Nov 2026, ETRO Pony bag, via Fashion Seoul) — the draped knit + olive-khaki bag for a gallery Saturday"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-14/hyojin-2.jpg",
+        "caption": "Tobacco-brown suede trench worn open with a cream knit hood-scarf and the same khaki saddle bag on a grey London street (Instagram, Nov 2026, via Fashion Seoul) — the brown trench + cream + olive colour story; the hood-scarf is a cosy drizzle idea"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-14/hyojin-3.jpg",
+        "caption": "Long black coat with the khaki suede saddle bag and a white canvas tote, long hair down, walking past a London pub on rain-wet pavement (Instagram, Nov 2026, via Fashion Seoul) — how a long coat and an olive-khaki bag look on a damp, grey day"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "weekday": "Friday",
     "weather": {
