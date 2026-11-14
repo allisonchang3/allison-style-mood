@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-15",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Clear and sunny all day, completely dry, with almost no wind — a bright, mild late-autumn Sunday",
+      "temp": "About 9°C at 8am and 11°C by 10am, warming to 15–16°C from noon to 3pm, back to about 12°C by 6pm and 8–10°C after dark",
+      "rain": "No rain (0 mm). Light breeze only, under 10 km/h. No umbrella needed; sunglasses are a good idea"
+    },
+    "occasion": "Sunday weekend casual: a late brunch, a long sunny walk (park, bookshop or gallery), and maybe an early dinner. Relaxed, but still put-together",
+    "clothes": "A navy-and-ivory Breton-stripe long-sleeve top (fine cotton jersey or thin merino) tucked loosely into high-waisted, full-length mid-wash wide-leg jeans. Over it, a short, boxy black leather jacket with a shirt collar, hip length and worn open. Add a structured black top-handle bag to match the jacket, or a cream canvas tote if you'll be walking a lot. This is a new mix for the week: the first leather jacket and first Breton stripe, with a wider, mid-blue leg after yesterday's light straight jeans and brown trench.",
+    "jewelry": "Silver-led after yesterday's gold: small polished silver hoops, a slim steel watch, a thin silver bangle or chain bracelet, and one thin gold ring to mix metals. Skip the necklace and let the stripe neckline stay clean.",
+    "shoes": "Black pointed leather ballet flats peeking out under the wide jeans, as in Suzy's photo. For a longer walk, swap to black penny loafers with ivory socks, like Hyojin. No heels.",
+    "hair": "A relaxed low ponytail at the nape tied with a thin navy or black ribbon, with the waves left loose in the tail and a couple of face-framing pieces pulled out. It's an easy, preppy finish that keeps your hair off the leather collar.",
+    "note": "Zip or close the jacket for the 9–11°C morning and early evening. At midday (15–16°C, full sun) it can be worn open or carried. If you're out past about 8pm, when it's 8–9°C, throw on a long coat or add a soft scarf. Keep the colours tight: navy, ivory, mid-blue denim and black only, so the stripe and the leather do the talking.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-15/suzy-1.jpg",
+        "caption": "Black leather jacket worn open over a navy-and-white Breton stripe top with blue jeans and long soft waves (photo shoot, via X fan post, Apr 2025): the leather jacket + Breton stripe core of today's look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-15/suzy-2.jpg",
+        "caption": "Same look seated, showing the full-length mid-wash wide-leg jeans and black pointed flats (same shoot, Apr 2025): the wide-leg jeans and pointed flats half"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-15/hyojin-1.jpg",
+        "caption": "Boxy black leather jacket over a white dress, with black loafers and red socks and soft waves with bangs (depound SS 2025 campaign, via Sports Kyunghyang): the boxy leather jacket shape, and loafers as the walking-day shoe swap"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-15/hyojin-2.jpg",
+        "caption": "Ivory-and-navy striped knit with dark straight jeans and brown loafers, relaxed on a sofa with her dog (depound SS 2025 campaign, via Sports Kyunghyang): the stripe-and-denim weekend mood"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "weekday": "Saturday",
     "weather": {
