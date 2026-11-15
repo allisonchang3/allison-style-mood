@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-16",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Dry, mostly clear to partly cloudy Monday with light wind: a crisp start and a mild, sunny afternoon",
+      "temp": "About 7°C at 8am and 10°C by 10am, rising to 15–16°C from 1–4pm, then 12–13°C around 6pm and 10–11°C late evening",
+      "rain": "No rain (0 mm, rain chance 0–2%). Light breeze, 5–9 km/h, a little stronger after 5pm. No umbrella needed"
+    },
+    "occasion": "Monday office / smart casual. A crisp, polished start to the week that still works if you go out to dinner after work",
+    "clothes": "Black and ivory: an ivory or cream single-breasted tailored blazer (soft shoulder, hip length) over a fine black merino crewneck, with high-waisted ivory/cream wool wide-leg trousers that skim the floor. For the 7–10°C commute, wear your long black wool coat over it, open or belted. By midday (15–16°C) the blazer on its own is enough. Carry a structured black shoulder bag. This is new for the week: the first ivory tailoring and the first ivory trousers, after Sunday's leather jacket and denim and last week's skirts and dark coats.",
+    "jewelry": "Gold-led after Sunday's silver: a fine gold chain with a small pearl or crystal pendant sitting at the crewneck (a nod to Suzy's necklace), small gold huggies, a gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Black leather penny loafers with thin ivory socks, so the trouser line stays light and clean. Black ballet flats also work if you want it sleeker. No heels.",
+    "hair": "A sleek low bun at the nape with a centre part, with a couple of soft waves left loose at the face. It's polished like Suzy's, and keeps your hair off the blazer collar.",
+    "note": "Keep the palette to black, ivory and a touch of gold so it looks sharp and expensive. If you'd like a soft accent, knot a small blush or dusty-blue silk scarf at the neck. Ivory trousers pick up dirt, so the black coat and bag do the hard work on the commute. If you'll be out past about 8pm (10–11°C), button the coat back up.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-16/suzy-1.jpg",
+        "caption": "Ivory tailored blazer over black with a delicate pendant necklace and a sleek low bun, reading her script at the 2026 Baeksang Arts Awards (via Harper's Bazaar Korea / X fan post, May 2026): the ivory blazer, black base and sleek-bun core of today's look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-16/suzy-2.jpg",
+        "caption": "Black top with relaxed white wide-leg trousers, a black shoulder bag and a knit carried on her arm, seated on stone steps (Instagram, Aug 2026, via X fan post): the black + ivory wide-trouser formula. Swap her sandals for loafers in November"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-16/hyojin-1.jpg",
+        "caption": "All-ivory layers: a cotton vest over a white pintuck blouse with ivory wide banding trousers and a black crossbody (depound, Instagram, May 2025, via X fan styling account): how tonal ivory trousers and layers look on a tall frame"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-16/hyojin-2.jpg",
+        "caption": "Off-white half jacket with a natural shoulder bag and loose half-up waves (depound, Instagram, May 2025, via X fan styling account): the light structured jacket over ivory. Today's version is a tailored ivory blazer"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "weekday": "Sunday",
     "weather": {
