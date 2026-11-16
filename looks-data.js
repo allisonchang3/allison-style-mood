@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-17",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Mild, grey Tuesday: cloudy and dry through the morning and early afternoon, then light drizzle from about 4pm into the evening",
+      "temp": "About 9°C at 8am, 11°C by late morning, peaking around 12–12.5°C from 2–3pm, then about 11°C at 6pm and 10–11°C late evening",
+      "rain": "Dry until mid-afternoon (rain chance 30–45%, a few stray drops possible around noon). Light drizzle likely from about 4–9pm (chance 65–94%, roughly 0.5 mm an hour). Very light wind, under 5 km/h. Carry a compact umbrella for the commute home"
+    },
+    "occasion": "Tuesday office / smart casual. Crisp and practical for a damp evening commute, and still neat enough for an after-work dinner",
+    "clothes": "Blue, ivory and tan: a dusty-blue fine-check (gingham) cotton shirt with a thin ivory fine-knit turtleneck underneath, sleeves rolled once so a little ivory shows at the wrists. Tuck it into high-waisted tan/camel straight-leg trousers (wool or heavy cotton twill) with a slim black leather belt. For the drizzly 10–11°C commute home, wear a navy water-resistant trench or mac, belted. Keep a soft grey fine cardigan at your desk for the office. Carry a structured black shoulder bag. This is new for the week: the first check shirt and the first tan trousers, after Monday's ivory tailoring and last week's skirts and dark coats.",
+    "jewelry": "Silver-led after Monday's gold: small silver hoops, a steel watch over the turtleneck cuff, and one thin gold ring to mix metals. Skip a necklace. The turtleneck and shirt collar already frame your face.",
+    "shoes": "Black leather penny loafers with thin black socks. They handle wet pavement and look sharp with tan trousers. Polished black lug-sole loafers work too if you want more grip in the rain. No heels, and leave suede at home today.",
+    "hair": "Soft waves twisted into a low, loose claw-clip twist at the nape, with a few face-framing pieces left out. It stays neat under drizzle and keeps your hair off the shirt collar and coat.",
+    "note": "Keep the palette to dusty blue, ivory, tan and navy with black leather, so it looks quietly preppy, not loud. If you go to dinner after work, take the cardigan off and wear the shirt open at the collar over the turtleneck. Choose darker tan or camel trousers over pale beige so evening splashes don't show.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-17/suzy-1.jpg",
+        "caption": "Blue-and-white check shirt over a thin white turtleneck, tucked into black trousers with a black leather belt, sleek low hair (Instagram @skuukzky, via Cosmopolitan Korea on Daum, Oct 2025). This is the check-shirt-over-turtleneck core of today's look. Swap her black trousers for tan"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-17/suzy-2.jpg",
+        "caption": "Fitted cream fine-knit cardigan with dark bottoms and long hair, mirror selfie on set (via X fan post). Your soft desk-cardigan layer. Today, go for grey"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-17/hyojin-1.jpg",
+        "caption": "Crisp white shirt tucked into tan/camel straight trousers with a black shoulder bag (Instagram story @rovvxhyo, via X fan repost). The tan-trouser and black-bag proportion on a tall frame"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-17/hyojin-2.jpg",
+        "caption": "Soft grey-olive layer worn open over a white tee with off-white trousers, out walking her dog (via X fan repost). An easy relaxed layer over a clean light base"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "weekday": "Monday",
     "weather": {
