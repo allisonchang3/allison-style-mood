@@ -1,5 +1,37 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-18",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Cold, bright Wednesday: mostly clear and dry through the day, then a few showers and a cooler, breezier evening",
+      "temp": "About 5–6°C at 8am, 7–9°C from noon to 3pm (peak about 8.7°C), down to about 6°C at 6pm and 3–4°C late evening",
+      "rain": "Dry until about 5pm. Showers are possible around 6–8pm (chance about 30–45%, up to about 2 mm in the 6pm hour). Light wind by day (6–9 km/h), picking up to 12–13 km/h in the evening, so it will feel colder going home. Carry a compact umbrella"
+    },
+    "occasion": "Wednesday office / smart casual. Soft and polished for the office, warm enough for a cold, wet commute home",
+    "clothes": "Ivory, blush and oatmeal: a soft ivory blouse with a relaxed collar, tucked into a blush-pink knife-pleated midi skirt (wool-blend or heavy crepe, not satin). Add opaque taupe/nude tights (40–60 denier) for the 3–9°C day. Wear a long oatmeal/cream coat on top. A padded or water-resistant one is best for the evening showers. Add a deep sage-green wool scarf and a slouchy cognac-brown leather shoulder bag. Keep a thin cream fine-knit cardigan at your desk. This is new for the week: the first blouse-and-pleats look and the first cream long coat, after Monday's ivory tailoring and Tuesday's check shirt with tan trousers. It's a pleated, matte skirt, so it reads differently from last Friday's blush satin.",
+    "jewelry": "Gold-led after Tuesday's silver: small gold huggies, a fine gold chain bracelet, and a gold watch over the blouse cuff, plus one thin silver ring to mix metals. Skip the necklace. The open blouse collar and the scarf already frame your face.",
+    "shoes": "Dark-brown leather lug-sole loafers (or black ones, worn with burgundy socks over the tights like Hyojin's). They grip on wet pavement tonight and ground the soft pink. No heels, and leave suede at home today.",
+    "hair": "Soft waves in a loose mid-height bun, with a few face-framing pieces left out. It stays tidy under the scarf and in the evening wind. For a softer office look, wear the waves down with a side part tucked behind one ear, like Suzy's.",
+    "note": "Keep it tonal (ivory, blush, oatmeal, brown) with one quiet sage note in the scarf, so it looks gentle and polished, not sweet. A skirt that hits mid-calf looks most modern on you at 170cm. If you go out after work, swap the scarf for the cardigan worn over the shoulders.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-18/suzy-1.jpg",
+        "caption": "Soft ivory blouse tucked into a blush-pink knife-pleated midi skirt, with a tan shoulder bag and long waves tucked behind one ear (Suzy's own clothes, Sep 2016, Xports News/OSEN via X fan archive). This is the core of today's blouse and pleats look"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-18/suzy-2.jpg",
+        "caption": "Same day, hand in her hair: the relaxed ivory collar, the gentle blush pleats and the brown bag strap (Sep 2016, via X fan archive). Today, add tights and a long coat"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-18/hyojin-1.jpg",
+        "caption": "Long cream padded coat with ivory trousers, a deep-green scarf, a slouchy brown leather shoulder bag, and black loafers with burgundy socks, hair in a loose bun (depound campaign image, via an X depound sale post, Jan 2025). This is today's coat, scarf, bag and loafer formula"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "weekday": "Tuesday",
     "weather": {
