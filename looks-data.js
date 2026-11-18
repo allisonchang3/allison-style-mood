@@ -9,8 +9,8 @@ window.ALLISON_LOOKS = [
     },
     "occasion": "Thursday office / smart casual. Polished but relaxed denim-at-work look, warm enough for a below-zero commute",
     "clothes": "Black, camel and blue denim: a fitted black fine merino turtleneck tucked into mid-blue straight-leg jeans with a slim black leather belt. Add a camel double-breasted wool blazer, cut slightly long and relaxed, worn open. That's your office layer. For the −1°C commute, wear a long charcoal wool overcoat over the blazer, plus a soft dusty-blue cashmere scarf that picks up the denim. Carry a structured black shoulder bag. This is new for the week: the first denim office day and the first camel blazer, after Wednesday's blouse and pleats and Tuesday's check shirt with trousers.",
-    "jewelry": "Silver-led after Wednesday's gold: small silver hoops, a slim silver chain worn over the black turtleneck so it catches the light, and a steel watch, plus one thin gold ring to mix metals. Optional: thin black oval glasses, like Hyojin's, for a smart office touch.",
-    "shoes": "Clean white leather low-top sneakers with white socks. They look fresh with the denim, and the pavement is dry. Or wear black chunky penny loafers with crisp white socks, like Hyojin. No heels.",
+    "jewelry": "Silver-led after Wednesday's gold: small silver hoops, a slim silver chain worn over the black turtleneck so it catches the light (layer two fine chains if you like, as Hyojin does), and a steel watch, plus one thin gold ring to mix metals.",
+    "shoes": "Clean white leather low-top sneakers with white socks. They look fresh with the denim, and the pavement is dry. Or wear black chunky penny loafers with crisp white socks for a slightly smarter finish. No heels.",
     "hair": "Long, loose soft waves down with a soft centre part, one side tucked behind the ear like Suzy's. Wrap the scarf loosely under your hair so it doesn't flatten the waves.",
     "note": "Keep it to three colours (black, camel, denim blue) with the dusty-blue scarf as the only soft note. That keeps it quietly preppy, not casual. Tuck the turtleneck fully and let the jeans break just at the shoe so the line stays long at 170cm. Once you're indoors, the blazer and turtleneck are warm enough on their own.",
     "celebrityRefs": [
@@ -32,7 +32,7 @@ window.ALLISON_LOOKS = [
       {
         "name": "Hyojin Kong",
         "src": "images/2026-11-19/hyojin-1.jpg",
-        "caption": "Black blazer over a white tee with mid-blue straight jeans, a slim belt, oval glasses, and black loafers with white socks (Instagram @rovvxhyo, via Cosmopolitan Korea winter office-look feature, Jan 2026). The denim-at-the-office proportion, plus the loafer and white sock option"
+        "caption": "Fitted black fine knit with two layered silver chains, silver rings and straight dark trousers (Vogue Korea shoot, via X fan post). How a slim silver chain and silver rings sit over black knit: today's jewelry idea"
       }
     ]
   },
