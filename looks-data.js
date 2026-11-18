@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-19",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Coldest morning of the week so far: clear, sunny and dry all day, with a light breeze from late morning",
+      "temp": "About −1°C at 8am, 2°C by 10am, 4–5°C from noon to 4pm (peak about 4.7°C), back to about 2°C at 6pm and around 0°C late evening",
+      "rain": "No rain (0 mm, 0% chance all day). Wind is light early (3–8 km/h), then 12–13 km/h from noon to 4pm, so it will feel colder than it reads. No umbrella needed"
+    },
+    "occasion": "Thursday office / smart casual. Polished but relaxed denim-at-work look, warm enough for a below-zero commute",
+    "clothes": "Black, camel and blue denim: a fitted black fine merino turtleneck tucked into mid-blue straight-leg jeans with a slim black leather belt. Add a camel double-breasted wool blazer, cut slightly long and relaxed, worn open. That's your office layer. For the −1°C commute, wear a long charcoal wool overcoat over the blazer, plus a soft dusty-blue cashmere scarf that picks up the denim. Carry a structured black shoulder bag. This is new for the week: the first denim office day and the first camel blazer, after Wednesday's blouse and pleats and Tuesday's check shirt with trousers.",
+    "jewelry": "Silver-led after Wednesday's gold: small silver hoops, a slim silver chain worn over the black turtleneck so it catches the light, and a steel watch, plus one thin gold ring to mix metals. Optional: thin black oval glasses, like Hyojin's, for a smart office touch.",
+    "shoes": "Clean white leather low-top sneakers with white socks. They look fresh with the denim, and the pavement is dry. Or wear black chunky penny loafers with crisp white socks, like Hyojin. No heels.",
+    "hair": "Long, loose soft waves down with a soft centre part, one side tucked behind the ear like Suzy's. Wrap the scarf loosely under your hair so it doesn't flatten the waves.",
+    "note": "Keep it to three colours (black, camel, denim blue) with the dusty-blue scarf as the only soft note. That keeps it quietly preppy, not casual. Tuck the turtleneck fully and let the jeans break just at the shoe so the line stays long at 170cm. Once you're indoors, the blazer and turtleneck are warm enough on their own.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-19/suzy-1.jpg",
+        "caption": "Camel double-breasted blazer over a fitted black turtleneck, long loose waves (via X fan styling post, shared 2020). This is the core of today's look: the camel blazer over black"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-19/suzy-2.jpg",
+        "caption": "Camel jacket over a black turtleneck and white shirt with blue jeans, long waves, in the car (Soopoiler behind-the-scenes clip, via X fan post shared Dec 2020). The camel + black + denim mix in real life"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-19/suzy-3.jpg",
+        "caption": "Close-up of a slim black turtleneck worn neatly with soft waves (Lancôme event, via X fan post shared Dec 2020). How fitted the turtleneck should be under the blazer"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-19/hyojin-1.jpg",
+        "caption": "Black blazer over a white tee with mid-blue straight jeans, a slim belt, oval glasses, and black loafers with white socks (Instagram @rovvxhyo, via Cosmopolitan Korea winter office-look feature, Jan 2026). The denim-at-the-office proportion, plus the loafer and white sock option"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "weekday": "Wednesday",
     "weather": {
