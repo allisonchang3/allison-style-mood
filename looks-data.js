@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-20",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Coldest day of the week: clear, sunny and dry, with a breeze from mid-morning",
+      "temp": "About −3°C at 8am, around 0°C by 11am, peaking near 1°C from 1 to 3pm, back below zero (−0.3°C) by 6pm and about −2°C late evening",
+      "rain": "No rain (0 mm, 0% chance all day). Wind 6–9 km/h early, rising to 12–14 km/h from 10am to 3pm, so it will feel well below zero. No umbrella, but wear gloves"
+    },
+    "occasion": "Friday office / smart casual into Friday dinner. Polished enough for work, a little softer for the evening",
+    "clothes": "Cream, black, charcoal and caramel. Wear a soft butter-cream blouse with a relaxed collar under a black fine-knit V-neck sweater vest, tucked into a high-waisted charcoal wool A-line midi skirt. Add warm black opaque tights (fleece-lined, 80 denier or more, for −3°C). Over it, a long caramel-tan wool coat, buttoned for the commute, with a deep navy wool scarf wrapped high against the wind. Carry a dark-brown leather shoulder bag. This one is new for the week: the first knit vest and the first wool midi skirt, after Thursday's denim and blazer and Wednesday's blush pleats.",
+    "jewelry": "Gold-led after Thursday's silver: small gold huggies (switch to slightly bigger gold hoops for dinner), a thin gold chain just inside the blouse collar, and a gold watch, plus one thin silver ring to mix metals.",
+    "shoes": "Black flat leather knee-high riding boots. They're the warmest option today and look sleek under the midi skirt. Or wear black penny loafers over the opaque tights. No heels.",
+    "hair": "A soft low bun at the nape for the office, like Suzy's, with a few loose face-framing waves. For dinner, take it down into loose waves with a side part. The scarf won't crush them.",
+    "note": "Keep the vest and skirt in dark tones and let the cream collar be the only light near your face. That's the quietly preppy part. The caramel coat and navy scarf add warmth without loud colour. At 170cm, the midi skirt with knee boots keeps one long dark line, so the coat can stay full length.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-20/suzy-1.jpg",
+        "caption": "Dark knit vest over a cream collared blouse at a dinner table, long hair down (official poster for 'Seven O'Clock Breakfast Club for the Brokenhearted', out 30 Dec 2026, via X fan post, Nov 2026). The vest + cream blouse core, dinner version"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-20/suzy-2.jpg",
+        "caption": "Black knit vest over a pale butter shirt with a soft low bun (character still from the same film, via X fan post, Nov 2026). The office version, hair included"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-20/suzy-3.jpg",
+        "caption": "Long caramel-tan coat with a dark scarf and long hair on a winter night street (behind-the-scenes from the same film, via X fan post, Nov 2026). Your coat and scarf layer"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-20/suzy-4.jpg",
+        "caption": "Black coat with a deep blue wool scarf wrapped high, hair loose (character still from the same film, via X fan post, Nov 2026). How to wear the navy scarf high against the wind"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "weekday": "Thursday",
     "weather": {
