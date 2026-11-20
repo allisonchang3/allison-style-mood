@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-21",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Clear, sunny and dry all day, but still freezing: a second sub-zero day in a row",
+      "temp": "About −4°C at 8am (the coldest point of the day), around 0°C by noon, peaking near 1°C from 2 to 3pm, back to about −1°C by 6pm and −3°C late evening",
+      "rain": "No rain or snow (0 mm, 0% chance all day). Light wind, up to about 10 km/h, so it feels a little colder than the number. No umbrella. Wear a hat and gloves"
+    },
+    "occasion": "Saturday weekend casual: a sunny cold-weather walk, brunch or café, and errands. Warm and relaxed, but still put together",
+    "clothes": "Chocolate, cream, black and a sage accent. Wear a soft ecru/cream chunky knit (pointelle, cable or a textured crewneck) over a thin white tee, with a black wool-flannel A-line skirt that ends just above the knee. Add warm black fleece-lined tights (80 denier or more) and charcoal ribbed knee-high wool socks pulled over them, the way Suzy does. On top, a short chocolate-brown down puffer with a high stand collar, zipped to the chin in the morning. Add a sage-green ribbed knit beanie and cream knit gloves. Carry a soft black leather crossbody or shoulder bag so your hands stay free. If you'd rather wear a lighter shade, an ivory or cream short puffer works too (see Hyojin). This is the first puffer, beanie and short skirt of the season on the site, after a week of long wool coats.",
+    "jewelry": "Silver-led after yesterday's gold: small silver hoops (they show nicely under the beanie), a thin silver chain over the knit for brunch, and a steel watch, plus one thin gold ring to mix metals. Keep it small so it doesn't catch on the knit or the gloves.",
+    "shoes": "Black chunky leather penny loafers with a lug sole, worn over the tights and knee socks. They're warm, grippy on cold pavements and look preppy with the short skirt. Or wear cream leather sneakers with the same socks for a longer walk. No heels.",
+    "hair": "Long loose waves down with a centre part, pulled forward over your shoulders and out from under the beanie, with a few soft strands framing your face. Brush the waves out with a little leave-in or hair oil, since the dry cold air and the hat can cause static.",
+    "note": "The puffer keeps this a weekend look. The cream knit, short wool skirt, knee socks and penny loafers keep it polished and quietly preppy, not sporty. At 170cm, keeping the puffer short (hip length) and the skirt, tights, socks and loafers all dark gives you one long dark leg line, so the volume up top looks intentional. The sage beanie is the one soft colour near your face. Take the beanie off indoors and shake out the waves.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-21/suzy-1.jpg",
+        "caption": "Sage-green ribbed beanie with a cream knit under a big black down puffer, hair loose under the hat (winter photo shoot, via X fan post, Jan 2025). The beanie, cream knit and puffer combination, with the sage near the face"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-21/suzy-2.jpg",
+        "caption": "Short chocolate-brown down puffer over a short dark skirt, with dark knee-high socks, chunky black penny loafers and grey knit gloves, long hair down (GUESS Winter 2025 campaign, via X fan post, Oct 2025). Today's full outfit: puffer, short skirt, knee socks and loafers"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-21/hyojin-1.jpg",
+        "caption": "Ecru textured pointelle knit (Sezane Alexa jumper) with light jeans, small earrings and soft shoulder-length hair (26 Nov 2025, via X fan outfit-info post). The kind of soft cream knit to wear under the puffer"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-21/hyojin-2.jpg",
+        "caption": "Ivory short down puffer zipped high over a grey hoodie, on a cold night street (SIYAZU duck-down hooded puffer, 'A Bona Fide Killer' episode 6, Aug 2026, via X fan outfit-info post). The lighter-puffer option if you'd rather not wear brown"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "weekday": "Friday",
     "weather": {
