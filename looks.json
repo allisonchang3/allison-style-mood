@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-22",
+    "weekday": "Sunday",
+    "weather": {
+      "summary": "Clear, sunny and dry all day. A freezing start, then a little milder than yesterday by the afternoon",
+      "temp": "About −4°C at 8am (feels like −8°C), about −1.5°C by 10am, around 2°C at noon, peaking near 4°C from 2 to 4pm, about 3°C at 6pm and 2°C late evening",
+      "rain": "No rain or snow (0 mm, 0% chance all day). Very light wind (under 5 km/h). No umbrella. Wear gloves and a scarf for the morning"
+    },
+    "occasion": "Sunday weekend casual: a late brunch or café, a sunny afternoon walk, and an easy dinner. Warm and relaxed but still polished",
+    "clothes": "Deep green, dusty blue, indigo and black. Wear a muted forest-green or deep sage cable-knit crewneck over a dusty-blue chambray shirt, with the shirt collar out and the cuffs just showing. Tuck the front of the knit loosely into dark-indigo semi-wide jeans with a slim brown leather belt. On top, a long black wool duffle coat with toggles (or any long dark wool coat), with a cream wool scarf and cream knit gloves for the −4°C morning. Carry a dark-brown leather shoulder bag. This is the first green knit, chambray collar and duffle coat on the site, after yesterday's puffer and skirt. Keep the green muted. Hyojin's is a bright kelly green, so go for a deeper forest or olive shade.",
+    "jewelry": "Gold-led after yesterday's silver: small gold huggies, a thin gold chain bracelet worn over the shirt cuff, and a gold watch, plus one thin silver ring to mix metals. Skip the necklace, because the collar and cable knit already add enough detail at the neck.",
+    "shoes": "Flat dark-brown leather ankle boots with a buckle or a simple Chelsea shape, with warm wool socks. The jeans should fall over the boot shaft. Black flat Chelsea boots work too. No heels.",
+    "hair": "Long loose waves down with a centre part. Twist the front sections back and pin them with a small tortoiseshell claw clip at the crown, so the waves stay off your face under the scarf. Use a little hair oil on the ends, because the cold, dry air can cause static.",
+    "note": "Collar-under-cable knit is the quiet-preppy core. The chambray adds a soft dusty-blue accent, and the green and brown keep it warm and wintry. At 170cm, the long duffle and semi-wide jeans over flat boots make a long, relaxed line. A short coat would cut it in half. If you go somewhere dressier for dinner, swap the chambray for a crisp white shirt.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-22/suzy-1.jpg",
+        "caption": "Taupe suede jacket over a denim-blue shirt with the collar out, a long black skirt, flat brown buckle ankle boots and long loose waves, at an outdoor busking set (via X fan post, Oct 2026). The blue collar peeking out, plus the flat brown boots"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-22/suzy-2.jpg",
+        "caption": "Navy cable-knit vest over a white shirt with the collar and sleeves out, long hair down, on a winter train (SINOON Fisher cable knit vest, Suzy's Instagram, 27 Dec 2024, via X fan outfit-info post). The shirt-collar-under-cable-knit layering for today"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-22/hyojin-1.jpg",
+        "caption": "Green cable semi-crop pullover with a navy wool scarf, blue jeans, a brown leather bracelet and gold ring, hair up (depound, via X brand post, Jan 2025). Today's cable knit + denim + scarf formula. Choose a deeper, more muted green than hers"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-22/hyojin-2.jpg",
+        "caption": "Green-and-cream striped collar pullover tucked into dark-indigo semi-wide jeans with a slim brown belt and black flats (depound, Instagram 16 Feb 2025, via X fan outfit-info post). The indigo semi-wide denim and brown belt proportion, in green"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "weekday": "Saturday",
     "weather": {
