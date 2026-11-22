@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-23",
+    "weekday": "Monday",
+    "weather": {
+      "summary": "Cold, dry start, then cloudy with drizzle from mid-morning turning to steady light rain through the afternoon, easing in the evening. Mild by the afternoon",
+      "temp": "About 3°C at 8am (feels like about 0°C), 7°C by 11am, 10°C at noon, peaking near 12°C around 4–5pm, about 11°C at 6pm and 9°C by 9pm (range 1.3–12.1°C)",
+      "rain": "Rain chance 50% at 8am, 73% at 9am, then 85–100% from 10am to 7pm. Drizzle from about 10am, heaviest 1–4pm (1–2.5 mm an hour), about 10.6 mm in total, tapering off by 8–9pm. Light breeze (5–12 km/h). Take an umbrella and wear water-resistant outerwear and shoes"
+    },
+    "occasion": "Monday office / smart casual: a full day at work with a wet commute in both directions. Polished and dry, with nothing that minds the rain",
+    "clothes": "Grey, navy and a soft lavender accent. Wear a mid-grey (heather or light-flannel) single-breasted suit: a relaxed, soft-shouldered blazer with matching straight-leg trousers, full length but falling just to the top of the boot so the hems stay out of puddles. Under it, a thin pale-lavender fine merino crewneck, so the lavender shows in the V of the jacket. Push the blazer sleeves up once at your desk, like Suzy. On top, a long navy water-resistant coat (a quilted-panel or waxed-cotton car coat, or a navy rain trench) worn closed, with a soft grey-melange wool scarf with fringed ends wrapped once. Carry a structured black leather top-handle or shoulder bag that zips shut, plus a compact navy umbrella. This is the site's first full grey suit and first lavender knit, after a week of skirts, jeans and camel. If the suit feels too matched, swap the trousers for charcoal straight trousers.",
+    "jewelry": "Silver-led after two gold days: small silver huggies, two fine silver or white-gold chains layered over the lavender knit (one short, one long with a small pendant, like Hyojin's), a steel watch with a silver bracelet strap and a slim silver bangle, plus one thin gold ring to mix metals.",
+    "shoes": "Black leather flat Chelsea boots with a grippy lug or rubber sole and thin grey wool socks. The trouser hem sits over the boot. Black lug-sole penny loafers work too. No heels.",
+    "hair": "Sleek low bun with a centre part. Comb the front back smoothly with a little balm and twist the waves into a low knot at the nape, so drizzle and damp air can't frizz them. Leave two soft face-framing strands loose if you like. Let it down in the evening for soft waves.",
+    "note": "A grey suit with a lavender knit underneath is quiet, modern tailoring. It never looks stiff, because the knit is soft and the jacket is relaxed. The navy coat and grey scarf handle the cold, wet commute, and the sleek bun and lug-soled boots mean the rain won't spoil anything. At 170cm, the matching grey top and bottom makes one long, unbroken line. If the rain stops early, swap the navy coat for a long charcoal wool coat.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-23/suzy-1.jpg",
+        "caption": "Mid-grey single-breasted suit with the jacket sleeves pushed up, a steel bracelet watch and long loose waves (Longines campaign, Apr 2025, via X fan post). Today's grey suit: relaxed, soft and modern rather than corporate"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-23/suzy-2.jpg",
+        "caption": "Soft grey-melange fringed wool scarf wrapped over a beige coat, small huggies, long hair, on an overcast Seoul rooftop (Instagram, Oct 2025, via X fan post). The grey scarf for today's cold, wet commute"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-23/hyojin-1.jpg",
+        "caption": "Long navy quilted-panel coat worn closed over a black turtleneck, hair pulled back, in a reed field (Burberry autumn/winter fashion film, Oct 2020, via X magazine post). The long, closed navy coat for the rain"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-23/hyojin-2.jpg",
+        "caption": "Black velvet knit top with layered white-gold chains (one short, one long pendant), a slim silver bangle and a sleek slicked-back low bun (Piaget Limelight Gala photocall, Seoul, 8 Nov 2023, via Topstar News). The silver-led layered chains and sleek rainy-day bun"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "weekday": "Sunday",
     "weather": {
