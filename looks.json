@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-24",
+    "weekday": "Tuesday",
+    "weather": {
+      "summary": "Clear, sunny and dry all day, but properly cold with a steady breeze, the coldest office day yet this season",
+      "temp": "About −1°C at 8am (feels like about −5°C), only 1°C at the midday peak (feels like −4°C), back below zero by 5pm and about −2°C by 9pm (feels like −6 to −7°C)",
+      "rain": "No rain or snow (0% chance all day). Breezy, 9–14 km/h, strongest around noon to 3pm, so the wind chill bites. Cover your neck and hands"
+    },
+    "occasion": "Tuesday office / smart casual: a normal workday with a cold, windy commute. Warm and soft, but still polished at your desk",
+    "clothes": "Soft blush and black under a cosy taupe coat. Wear a fitted (not tight) blush or dusty-pink fine rib turtleneck, tucked into high-waisted black wool wide-leg trousers that fall full length to the shoe. On top, a long mushroom-taupe teddy or bouclé coat, worn open indoors and closed with the collar up outside. This is the site's first teddy coat, and it's the warmest option for a day this cold. Carry a small structured black shoulder or crossbody bag, and add ivory knit gloves for the commute. Prefer a skirt? Swap the trousers for a long grey check pleated skirt with black opaque tights, like Suzy's.",
+    "jewelry": "Gold-led after yesterday's silver: small gold hoops or pearl drops (they show with the high neck), a thin gold chain bracelet worn over the cuff, a gold watch, and one thin silver ring to mix metals. Skip the necklace, because the turtleneck is the neckline.",
+    "shoes": "Black leather penny loafers with thick charcoal cashmere or wool socks. The wide trouser hem covers them, so it reads sleek. If you want more warmth, wear flat black leather ankle boots under the trousers. No heels.",
+    "hair": "Long soft waves down with a centre part, like Suzy's. Hair down keeps your neck warm in the wind. Tuck it inside the coat collar outdoors and pull it out at the office. A little hair oil on the ends stops static from the knit and the dry air.",
+    "note": "Blush with black is soft but still sharp, and the taupe teddy coat makes it feel modern and warm, not stiff. At 170cm, the high-waisted wide trousers, the tucked turtleneck and the long coat give you one long line. This week has been grey suits, skirts and jeans, so wide trousers and a teddy texture keep it fresh.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-24/suzy-1.jpg",
+        "caption": "Fitted dusty-pink turtleneck tucked into a long grey check pleated skirt, long soft waves (via Yonhap, X fan post, Jun 2021). Your blush turtleneck, and the skirt option."
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-24/suzy-2.jpg",
+        "caption": "Close-up of a soft pink turtleneck with long waves and a centre part (via X fan post, Feb 2021). How the fit, the colour and today's hair should look."
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-24/hyojin-1.jpg",
+        "caption": "Long taupe-grey teddy coat over black with black wide-leg trousers and a small black crossbody, long hair down (Max Mara Teddy Bear coat 10th-anniversary event, Seoul, Oct 2023, via Topstar News on X). The coat, trousers and bag."
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-24/hyojin-2.jpg",
+        "caption": "Closer look at the same teddy coat slipped off the shoulders with a black top, long straight hair (same event, Oct 2023). The cosy texture against black."
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "weekday": "Monday",
     "weather": {
