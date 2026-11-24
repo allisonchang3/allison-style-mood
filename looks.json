@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-25",
+    "weekday": "Wednesday",
+    "weather": {
+      "summary": "Clear and dry all day, and bitterly cold in the morning: about −3°C at dawn, with a mild afternoon peak of about 6°C. Coldest start of the week, then a gentle recovery",
+      "temp": "About −3.4°C at 8am (feels like about −7°C), −0.7°C at 10am (feels like −4°C), 2°C around noon, a peak of about 6°C at 4pm (feels like 3°C), and about 4–5°C by 8–9pm (feels like 2°C)",
+      "rain": "No rain or snow (0% chance all day, 0 mm). Wind is light, only about 3–5 km/h in the morning and 5–7 km/h later, but the still air is freezing at sunrise. Source: Open-Meteo forecast for Seoul"
+    },
+    "occasion": "Wednesday office / smart casual: a normal workday with a very cold, bright morning commute and a milder evening. Crisp and polished at your desk",
+    "clothes": "Crisp white and stone under black. Start with a crisp white poplin shirt with the collar out and the sleeves slightly pushed up. Over it, a fitted-but-not-tight pale sage or oat fine merino crewneck (the first sage knit since the draped one on 11-09, and softer than a cardigan). Add high-waisted stone or khaki wide pleated wool trousers that fall to the shoe, like Suzy's. On top, a long black single-breasted wool coat, worn closed outside and open at your desk, plus a soft ivory-grey wool scarf for the −3°C start. Carry a small structured black leather shoulder or crossbody bag. Want a skirt? Swap the trousers for a long cream wool skirt under the black coat, the Hyojin look.",
+    "jewelry": "Silver-led after yesterday's gold: small silver huggie hoops (they show with the open collar), a thin silver chain, a steel watch, and one thin gold ring to mix metals.",
+    "shoes": "Black leather penny loafers or soft round-toe black flats with thin black socks or sheer black tights. The wide trouser hem skims the top of the shoe. If the pavement is icy, flat black leather ankle boots with a grippy sole are a good swap. No heels.",
+    "hair": "Long waves down with a soft side part, with the front pieces tucked behind one ear like Suzy. Tuck the ends inside the coat collar outdoors to keep your neck warm, and add a little oil on the ends against static from the wool.",
+    "note": "White, sage and stone read clean and quietly preppy against a black coat, so the cold doesn't push you into heavy dark layers. The wide trousers and tucked shirt give one long line at 170cm. After a week of knit-on-knit, turtlenecks and suits, a crisp white collar is the fresh change, and the draped scarf adds softness for the freezing morning.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-25/suzy-1.jpg",
+        "caption": "Crisp white shirt with the sleeves pushed up, tucked into stone/khaki wide pleated trousers, with small silver-toned hoops and a tan shoulder bag, long loose waves (airport, via X fan/news post, Jul 2026). Today's shirt and trouser proportions"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-25/suzy-2.jpg",
+        "caption": "Cream collared blouse with a dark knit carried over the arm, indigo denim and a small structured bag with a silk scarf, soft side-tucked hair (airport, via X fan/news post, Jul 2026). The white collar and the neat, polished layering"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-25/suzy-3.jpg",
+        "caption": "Black textured jacket with a small structured black crossbody bag and a thin gold ring, long hair in a loose low tail, at a Paris café (via X fan post, Oct 2026). The black outer layer and small black bag"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-25/hyojin-1.jpg",
+        "caption": "Black blazer-style coat over a cream long vest-dress and black turtleneck, with flat black loafers and long hair down (London Korean Film Festival, Nov 2026, via her Instagram Story). The black outer layer against cream, and the flat shoes"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "weekday": "Tuesday",
     "weather": {
