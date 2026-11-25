@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-26",
+    "weekday": "Thursday",
+    "weather": {
+      "summary": "Dry and mild for late November: cloudy first thing, clearing to sun by mid-afternoon and a clear evening. Much milder than this week's freezing mornings, so a jacket day, not a heavy-coat day",
+      "temp": "About 6–7°C at 7–8am (feels like 4–5°C), 9.5°C by 10am, 12°C at noon, a peak of about 14°C around 3pm (feels like 13°C), then about 11°C by 6pm and 9–10°C by 9pm (feels like 8–9°C)",
+      "rain": "No rain (0% chance all day, 0 mm). Light breeze only, about 6–9 km/h, a little stronger around midday. Source: Open-Meteo forecast for Seoul"
+    },
+    "occasion": "Thursday office / smart casual: a normal workday with a cool, cloudy commute and a mild, sunny afternoon. Soft and put-together at your desk, easy enough to stay out for an early dinner",
+    "clothes": "Cream on cream under chocolate brown. Wear a fitted-but-not-tight ivory or cream fine-gauge crewneck knit (plain, no lettering), tucked into a high-waisted cream or oat wool midi skirt that's softly A-line and ends mid-calf. Over it, a hip-length chocolate-brown leather jacket with a shirt collar, relaxed through the shoulder and worn open. On a 6–14°C dry day it's all the outer you need, and it's the site's first brown leather jacket. Carry a cognac or tan structured top-handle or shoulder bag. For a soft accent, knot a small dusty-blue silk scarf at the neck or tie it on the bag handle. Running cold at 8am? Add a thin oatmeal cardigan under the jacket, or throw your camel coat on and leave the leather jacket for the afternoon.",
+    "jewelry": "Gold-led after yesterday's silver: small gold hoops, a thin gold chain with a tiny pendant sitting on the crewneck, a gold watch, and one thin silver ring to mix metals.",
+    "shoes": "Black suede or leather penny loafers with soft grey ribbed socks, like Hyojin, worn over sheer nude tights for the 6°C morning. Black or brown flat ankle boots work too if you'd rather cover up. No heels.",
+    "hair": "Soft waves in a loose low half-up twist, held with a tortoiseshell claw clip. Pull a few front pieces out to frame your face, and leave the length down over the jacket collar.",
+    "note": "Tonal cream with a deep brown leather jacket looks relaxed but still expensive. It's quietly preppy, it's not black, and it has none of the heavy-coat bulk of the past few cold days. The midi skirt and tucked knit keep one long, light line at 170cm, and the grey socks with loafers make it feel current, not stiff. After a week of wide trousers, turtlenecks and long black coats, this is the softer, warmer-toned day.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-26/suzy-1.jpg",
+        "caption": "Glossy dark chocolate-brown leather jacket with a shirt collar, worn open over a black lace top, hair pulled back with face-framing pieces (her Instagram @skuukzky, Sep 2026, via W Korea). Today's deep-brown leather jacket. Wear it over cream knitwear instead of lace"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-26/suzy-2.jpg",
+        "caption": "Tonal cream: a cream textured jacket over an ivory top and a long cream skirt, with a silver ring, a slim watch and long soft waves ('Wonderland' cinema promotion, Management SOOP Instagram, May 2024, via X fan post). The cream-on-cream base and skirt length for today"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-26/hyojin-1.jpg",
+        "caption": "Brown leather collared jacket over a cream knit and check shirt, with a cream wool skirt, grey ribbed socks and black loafers (depound FW 2024 studio shoot, her Instagram 10 Sep 2024, via X outfit-info post). Today's whole formula: brown leather, cream skirt, grey socks and loafers. Pick a plain knit and a midi length for the office"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-26/hyojin-2.jpg",
+        "caption": "Tan suede shirt-jacket over a white collar and oat knit, with an ivory pintuck skirt (same depound FW 2024 studio shoot, Sep 2024, via X outfit-info post). Another take on a brown jacket over cream. Skip the cap and red socks and keep the grey socks and loafers"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "weekday": "Wednesday",
     "weather": {
