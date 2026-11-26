@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-27",
+    "weekday": "Friday",
+    "weather": {
+      "summary": "Mild and mostly dry for late November: clear first thing, partly cloudy from late morning, with a small chance of a passing shower mid-afternoon, then a cloudy, calm evening. A light-coat day, not a heavy-coat day",
+      "temp": "About 7–8°C at 7–8am (feels like 5–6°C), 9°C by 9am, 13.5°C at noon, a peak of about 15°C around 2pm (feels like 14°C), then about 12°C at 6pm, 11°C at 7pm and 10°C by 9pm (feels like 8°C)",
+      "rain": "0 mm forecast, but the chance of a shower rises in the afternoon (about 45% at 1pm, peaking around 75% at 3pm, under 5% after 6pm), so tuck a compact umbrella in your bag. Light winds only, about 4–10 km/h. Source: Open-Meteo forecast for Seoul"
+    },
+    "occasion": "Friday office / smart casual into Friday dinner or drinks: polished enough for the desk, a little dressier for the evening, with no outfit change needed",
+    "clothes": "Black dress under a pale grey coat. Wear a black long-sleeve fine-knit (or soft wool-crepe) A-line dress with a crew or soft scoop neck that ends at or just above the knee. It should skim the body, fitted but not tight, with a little swing at the hem like Hyojin's. On top, a long pale-grey (light heather or faint-check) double-breasted wool coat, buttoned for the 7°C commute and worn open later. Knot a small pale-lavender or dove-grey silk scarf at the neck the way Suzy does in Anna, for a soft accent and a warm throat in the morning. Carry a structured dove-grey or soft taupe shoulder bag with silver hardware, roomy enough for a compact umbrella. Running warm at your desk? The dress works on its own. For dinner, take the scarf off and let the silver jewellery show. This is the site's first dress since 11-04 and its first pale-grey double-breasted coat, after yesterday's cream skirt and brown leather, Wednesday's khaki trousers and black coat, and Tuesday's taupe teddy.",
+    "jewelry": "Silver-led after yesterday's gold: silver teardrop or open-loop drop earrings, like Hyojin's (small enough for the office, with a little shine for dinner), a slim silver chain bracelet or bangle, a steel watch, a sculptural silver ring, and one thin gold ring to mix metals. Skip the necklace so the dress neckline stays clean.",
+    "shoes": "Black glossy leather Mary Jane ballet flats with sheer black tights (20–30 denier), exactly Hyojin's formula. If you'd rather cover up for the 7°C morning, black flat leather knee-high boots look sleek with the knee-length hem, and you can switch to the flats for dinner. No heels.",
+    "hair": "Sleek low-to-mid ponytail with a centre part, smoothed at the crown, with the waves left loose in the tail. Tie a thin black velvet or grosgrain ribbon over the elastic, like Hyojin, and pull out one or two soft face-framing pieces.",
+    "note": "A short-ish black dress with sheer tights and Mary Janes is the easiest Friday office-to-dinner outfit. It's polished at work and a little dressy at night, and the flat shoes keep it modern, not formal. A pale-grey double-breasted coat makes the black look soft and expensive, not severe. It also suits silver jewellery better than camel does. The lavender scarf is today's one soft accent, so keep everything else black, grey and silver. At 170cm the knee-length hem and long coat give you a clean, long line.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-27/suzy-1.jpg",
+        "caption": "Pale-grey double-breasted wool coat with a soft silk scarf knotted at the neck, small drop earrings and long soft waves (as Lee Anna in Coupang Play 'Anna' ep. 3, JIGOTT angora check double-breasted coat, Jul 2022, via X fan outfit-info post 1542946283035443202). Today's pale-grey coat and scarf at the neck. Use pale lavender for yours"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-27/suzy-2.jpg",
+        "caption": "Grey windowpane-check double-breasted wool coat with strong shoulders and waves in a low side ponytail (as Lee Anna in 'Anna', AVOUAVOU cashmere-blend double tailored coat in grey, Jun 2022, via X fan outfit-info post 1540781210921754624). Another take on the grey double-breasted coat, plus a polished low ponytail. Skip the teal shirt and go black underneath"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-27/hyojin-1.jpg",
+        "caption": "Black A-line dress with sheer black tights and glossy black Mary Jane ballet flats, hair in a sleek ponytail ('The Journey to Gyeong-ju' press screening, Seoul, 13 Aug 2026, Celine mini dress and City Mary Jane ballerinas, Single List article 758649). Today's whole black-dress, sheer-tights and Mary Jane formula. Choose long sleeves and a knee length for November"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-27/hyojin-2.jpg",
+        "caption": "Close-up of the same look: a sleek ponytail tied with a black ribbon, silver teardrop earrings, a silver chain bracelet and a sculptural silver ring against the black dress (same press screening, 13 Aug 2026, via iNews24 article 1994821). Your silver-led jewellery and ribbon ponytail for today"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "weekday": "Thursday",
     "weather": {
