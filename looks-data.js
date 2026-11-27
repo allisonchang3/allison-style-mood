@@ -1,5 +1,42 @@
 window.ALLISON_LOOKS = [
   {
+    "date": "2026-11-28",
+    "weekday": "Saturday",
+    "weather": {
+      "summary": "Clear-to-partly-cloudy, dry and properly cold: an early-winter Saturday that never gets past single digits. The afternoon is pleasant in the sun, but it drops fast after dark. A warm-coat day, not a rain day",
+      "temp": "About 4°C at 7–8am, dipping to 3.6°C around 8am (feels like about 0°C), 5.5°C at 10am, a peak of only about 7°C from noon to 2pm (feels like about 6°C), then 5°C at 5pm, 3.4°C at 7pm and about 2°C by 10pm. The overnight low is about 1°C, and the feels-like low is around −2.5°C late in the evening",
+      "rain": "0 mm and a 0% chance of rain all day, so no umbrella needed. Light breeze only, up to about 13 km/h, but it makes the evening feel near freezing. Source: Open-Meteo forecast for Seoul"
+    },
+    "occasion": "Saturday weekend casual: brunch, a gallery or a long walk, and a cosy early dinner out, all in one outfit",
+    "clothes": "Ivory, soft grey and one lavender accent. Wear an ivory or cream matte short down jacket, hip-length with a stand collar or soft hood, zipped up for the near-freezing morning and open by midday. Underneath, layer a heather-grey fine-gauge hooded zip knit or a soft grey crewneck so a grey collar or hood shows at the neck, like Suzy's. For the bottom, a mid-grey quilted or wool-knit A-line midi skirt that falls to mid-calf, fitted at the waist and easy through the hip, with opaque charcoal tights (60–80 denier) for warmth. Carry a structured dusty-lavender or lilac leather shoulder bag or tote, like Hyojin's purple bag in Rome. It's the one soft colour today, so keep everything else ivory, grey and brown. Add an oatmeal or cream wool scarf for the evening. Rather wear trousers? Swap the skirt for mid-grey wool wide-leg trousers, which is Hyojin's Rome formula. This is the site's first ivory short down jacket as the main outer layer and its first grey midi skirt, after yesterday's black dress and pale-grey coat, Thursday's cream skirt and brown leather, and last Saturday's chocolate puffer.",
+    "jewelry": "Gold-led after yesterday's silver: small gold huggies or mini hoops, a thin gold chain with a tiny pendant or pearl sitting on the grey knit, a gold watch, and one thin silver ring to mix metals. Keep it small and warm-toned so the ivory and grey still read soft.",
+    "shoes": "Chocolate-brown leather flat lace-up derbies (a slight lug sole is fine) with cream ribbed wool socks showing over the charcoal tights. That's Suzy's cream socks and brown lace-up finish. On the coldest evening walk, flat dark-brown suede ankle boots work too. No heels.",
+    "hair": "Half-up waves like Hyojin in Rome. Gather the top section loosely at the crown with a small tortoiseshell or gold claw clip and leave the rest of the waves down over the jacket collar. A few soft face-framing pieces stay out at the front. Push the hair behind your shoulders when the hood is up.",
+    "note": "Ivory down and a grey midi skirt is the soft, grown-up way to wear a puffer. It looks cosy rather than sporty, and the midi length with tights and socks keeps it polished for a gallery or brunch. Lavender is the only colour, so the outfit stays quiet. Choose a matte jacket with no logos and no shine. At 170cm, the short jacket over a long skirt gives you a clean, long line, so keep the jacket at hip length or shorter. It's dry all day, so suede shoes and a leather bag are safe.",
+    "celebrityRefs": [
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-28/suzy-1.jpg",
+        "caption": "Ivory short down jacket over a grey hooded layer, with a grey quilted midi skirt, cream ribbed socks and brown lace-up shoes, long hair down (K2 AL-PACA Parka Caya Down in Cream, K2 Instagram 1 Oct 2026, via X fan post 2105543396773470344). Today's whole formula: ivory down, grey midi skirt, cream socks and brown flats. Add charcoal tights for the cold"
+      },
+      {
+        "name": "Suzy",
+        "src": "images/2026-11-28/suzy-2.jpg",
+        "caption": "Profile view of the same ivory down jacket with its soft hood up at the neck and a taupe backpack, long dark waves (same K2 Caya campaign, Aug 2026, via X fan post 2090629864550547474). How the matte ivory padding reads up close. Carry your lavender bag on the shoulder instead"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-28/hyojin-1.jpg",
+        "caption": "Ivory high-neck padded jacket with charcoal-grey trousers, carrying a lilac-purple Loewe shopping bag, hair pulled back, on a Roman street at dusk (her Instagram, 'Last city ROME', Nov 2026, via MyDramaList News article 28326). Ivory and grey with a lavender accent is today's colour story. This is also the trouser option"
+      },
+      {
+        "name": "Hyojin Kong",
+        "src": "images/2026-11-28/hyojin-2.jpg",
+        "caption": "Close-up in the ivory padded jacket, with makeup-free skin and soft hair pulled half up, phone in hand on a Rome street (same Instagram post, Nov 2026, via MyDramaList News article 28326). The half-up hair and how cream padding lights up the face"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "weekday": "Friday",
     "weather": {
